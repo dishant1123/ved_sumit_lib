@@ -1,0 +1,6 @@
+id,name,age,marks
+101,sumit,23,99
+102,ram,21,
+103,sita,,97
+104,ved,21,96
+105,sumit,23,95
