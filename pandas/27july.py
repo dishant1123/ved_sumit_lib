@@ -68,4 +68,3 @@ print(df)
 
 conn.close()
 
-# 
