@@ -2,13 +2,13 @@
 
 import  pandas as pd
 import numpy as np
-df =pd.DataFrame({
+"""df =pd.DataFrame({
     'name' :["saloni","ved","sumit","jay",np.nan],
     'age' :[23,29,27,np.nan,30],
     'salary' :[np.nan,50000,np.nan,np.nan,78000]
 })
 print(df)
-
+"""
 # missing value :
 """
 print(df.isnull())
@@ -76,3 +76,4 @@ MNAR : missing not at random
 """ 
 
 # loc , iloc  : 
+
