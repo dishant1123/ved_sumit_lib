@@ -104,3 +104,34 @@ print("full join is  : \n",join)  # not possible  bcz of  matching  rows
 2. perform the inner join  between the two datasets : with director_id 
 """
 
+movies=pd.read_csv("pandas/movies.csv")
+movies =movies.drop(columns=['Unnamed: 0'])
+
+directors=pd.read_csv("pandas/directors.csv")
+directors =directors.drop(columns=['Unnamed: 0'])
+
+# print(movies.head())
+# print(directors.head())
+
+# join  : 
+
+"""join_with_director_id = pd.merge(
+    movies,
+    directors,
+    how='inner',
+    right_on='id',
+    left_on='director_id'
+    
+)
+
+print("join_with_director_id is  : \n",join_with_director_id)
+"""
+"""
+tasks 
+
+1. top 10 directors with highest number of movies
+2. top 10 movies with highest budget
+3. top 5 movies with highest revenue
+4. bottom 5 movies with very low vote_average
+"""
+
