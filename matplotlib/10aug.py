@@ -39,19 +39,28 @@ plt.show()
 
 # bar chart :
 
-"""
 df=pd.read_csv("matplotlib/sample_superstore (1).csv")
 
 category_sales = df.groupby(['Category'])['Sales'].sum()
-
 plt.bar(category_sales.index,category_sales.values,color='red',align='center',alpha=0.5,width=0.5)
+
+for i , j in enumerate(category_sales.values) :
+    plt.text(
+        i,
+        j,
+        f"{j:.2f}",
+        ha='center',
+        fontsize=8,
+        color='black'
+    )
+
 plt.title("Sales vs Category")
 plt.xlabel("Category")
 plt.ylabel("Sales")
 
 plt.grid(True)
 plt.show()
-"""
+
 
 # figure axis :
 
