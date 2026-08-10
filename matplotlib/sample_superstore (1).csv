@@ -1,0 +1,44 @@
+Order Date,Region,Segment,Category,Sub-Category,Quantity,Unit Price,Discount,Sales,Profit
+2025-01-03,West,Consumer,Furniture,Chairs,2,450,0.1,810.0,120
+2025-01-05,East,Corporate,Technology,Phones,3,700,0.05,1995.0,320
+2025-01-08,South,Consumer,Office Supplies,Binders,5,120,0.0,600.0,150
+2025-01-12,West,Home Office,Technology,Laptops,2,850,0.1,1530.0,280
+2025-01-15,East,Consumer,Furniture,Tables,1,900,0.15,765.0,90
+2025-01-18,Central,Corporate,Office Supplies,Paper,10,80,0.0,800.0,240
+2025-01-22,South,Consumer,Technology,Accessories,6,150,0.05,855.0,210
+2025-01-25,West,Corporate,Furniture,Bookcases,2,600,0.2,960.0,80
+2025-02-02,East,Consumer,Technology,Phones,4,680,0.1,2448.0,410
+2025-02-06,Central,Home Office,Furniture,Chairs,3,420,0.05,1197.0,250
+2025-02-10,South,Corporate,Office Supplies,Storage,5,300,0.1,1350.0,290
+2025-02-14,West,Consumer,Technology,Laptops,1,950,0.05,902.5,190
+2025-02-18,East,Corporate,Furniture,Tables,2,780,0.1,1404.0,180
+2025-02-22,Central,Consumer,Office Supplies,Binders,8,110,0.0,880.0,220
+2025-02-26,South,Home Office,Technology,Accessories,7,130,0.05,864.5,205
+2025-03-03,West,Consumer,Furniture,Chairs,4,430,0.1,1548.0,300
+2025-03-07,East,Corporate,Technology,Phones,5,720,0.05,3420.0,560
+2025-03-11,South,Consumer,Office Supplies,Paper,12,75,0.0,900.0,270
+2025-03-15,Central,Corporate,Technology,Laptops,2,900,0.15,1530.0,250
+2025-03-19,West,Home Office,Furniture,Bookcases,3,580,0.1,1566.0,210
+2025-03-23,East,Consumer,Office Supplies,Storage,6,290,0.05,1653.0,350
+2025-03-27,South,Corporate,Technology,Accessories,10,140,0.1,1260.0,300
+2025-04-02,Central,Consumer,Furniture,Tables,2,820,0.1,1476.0,190
+2025-04-06,West,Corporate,Technology,Phones,3,690,0.05,1966.5,330
+2025-04-10,East,Home Office,Office Supplies,Binders,9,125,0.0,1125.0,280
+2025-04-14,South,Consumer,Furniture,Chairs,5,410,0.15,1742.5,310
+2025-04-18,Central,Corporate,Technology,Laptops,3,880,0.1,2376.0,420
+2025-04-22,West,Consumer,Office Supplies,Paper,15,70,0.0,1050.0,320
+2025-04-26,East,Corporate,Furniture,Bookcases,2,620,0.2,992.0,95
+2025-05-03,South,Consumer,Technology,Accessories,8,145,0.05,1102.0,285
+2025-05-07,Central,Home Office,Furniture,Tables,1,950,0.1,855.0,105
+2025-05-11,West,Consumer,Technology,Phones,4,710,0.1,2556.0,430
+2025-05-15,East,Corporate,Office Supplies,Storage,7,310,0.05,2061.5,430
+2025-05-19,South,Consumer,Furniture,Chairs,6,390,0.1,2106.0,390
+2025-05-23,Central,Corporate,Technology,Laptops,2,920,0.05,1748.0,310
+2025-05-27,West,Home Office,Office Supplies,Binders,10,115,0.0,1150.0,300
+2025-06-02,East,Consumer,Furniture,Tables,3,800,0.15,2040.0,260
+2025-06-06,South,Corporate,Technology,Phones,5,730,0.05,3467.5,570
+2025-06-10,Central,Consumer,Office Supplies,Paper,18,65,0.0,1170.0,350
+2025-06-14,West,Corporate,Furniture,Bookcases,4,590,0.1,2124.0,290
+2025-06-18,East,Home Office,Technology,Accessories,9,135,0.05,1154.25,300
+2025-06-22,South,Consumer,Furniture,Chairs,5,440,0.1,1980.0,360
+2025-06-26,Central,Corporate,Technology,Laptops,3,870,0.15,2218.5,390
