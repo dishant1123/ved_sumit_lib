@@ -1,0 +1,516 @@
+order_id,product_id,product_name,category,price,discount_pct,discounted_price,quantity,revenue,customer_id,customer_name,age,city,state,payment_method,order_status,order_date,delivery_date,delivery_days,rating,review
+ORD688508,FKPROD2824,iPhone 14,Electronics,89115.28,15,75747.99,2,151495.98,CUST28289,Sunita Rao,61.0,Delhi,Delhi,EMI,Delivered,2022-01-31,2022-02-02,2.0,,Good product
+ORD263032,FKPROD4257,Himalaya Neem Toner,Beauty,1676.23,50,838.12,4,3352.48,CUST38893,Kiran Kumar,55.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2024-04-05,2024-04-08,3.0,3.8,Not as expected
+ORD678856,FKPROD4527,Yonex Badminton Racket,Sports,3563.97,5,3385.77,4,13543.08,CUST22676,Neha Desai,,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2023-04-16,2023-04-25,9.0,1.5,Value for money
+ORD205907,FKPROD5803,Clean Code,Books,531.96,25,398.97,5,1994.85,CUST35203,Amit Patel,20.0,Nagpur,Maharashtra,Debit Card,Processing,2024-05-25,,,,Excellent!
+ORD584714,FKPROD7227,Boys T-Shirt Pack,Clothing,1921.96,25,1441.47,2,2882.94,CUST58520,Neha Desai,31.0,Indore,Madhya Pradesh,Cash on Delivery,Delivered,2023-09-16,2023-09-27,11.0,1.7,Average quality
+ORD169403,FKPROD7216,Boys T-Shirt Pack,Clothing,3959.19,50,1979.6,2,3959.2,CUST99733,Sanjay Kulkarni,21.0,,,UPI,Cancelled,2023-02-15,,,,Not as expected
+ORD711878,FKPROD4456,The Alchemist,Books,712.46,25,534.35,2,1068.7,CUST95909,,43.0,Bengaluru,Karnataka,Debit Card,Delivered,2024-02-02,2024-02-11,9.0,,Fast delivery
+ORD724834,FKPROD7543,Kids Hoodie,Clothing,1032.42,10,929.18,5,4645.9,CUST74686,Amit Patel,21.0,Bengaluru,Karnataka,Cash on Delivery,Delivered,2023-11-28,2023-12-05,7.0,3.4,Fast delivery
+ORD407757,FKPROD8668,Royalford Frying Pan,Home,2486.3,50,1243.15,1,1243.15,CUST99166,Sunita Rao,61.0,Nagpur,Maharashtra,Debit Card,Cancelled,2022-12-15,,,,Value for money
+ORD728038,FKPROD8123,HP Pavilion x360,Electronics,54719.98,20,43775.98,5,218879.9,CUST33416,Sunita Rao,58.0,,,Cash on Delivery,Delivered,2022-07-23,2022-07-26,3.0,2.5,Good product
+ORD897549,FKPROD6310,Pigeon Gas Stove,Home,468.45,25,351.34,3,1054.02,CUST41385,Priya Sharma,,Delhi,Delhi,UPI,Returned,2024-04-15,,,,Value for money
+ORD847581,FKPROD9727,Nivia Cricket Bat,Sports,1518.88,40,911.33,5,4556.65,CUST31643,Rahul Nair,,Pune,Maharashtra,Credit Card,Shipped,2024-02-13,,,,Excellent!
+ORD174441,FKPROD6107,Prestige Pressure Cooker,Home,8956.8,25,6717.6,4,26870.4,CUST77839,Kiran Kumar,25.0,Hyderabad,Telangana,UPI,Delivered,2023-08-26,2023-09-04,9.0,1.9,Good product
+ORD946721,FKPROD1964,LG OLED 55,Electronics,8554.34,0,8554.34,3,25663.02,CUST19287,Kavita Joshi,35.0,Hyderabad,Telangana,EMI,Delivered,2024-06-22,2024-07-02,10.0,3.3,
+ORD522179,FKPROD7669,MacBook Air M2,Electronics,11771.93,30,8240.35,3,24721.05,CUST65519,Meera Pillai,47.0,Surat,Gujarat,Cash on Delivery,Processing,2022-04-11,,,,Good product
+ORD153045,FKPROD6559,Nike Gym Gloves,Sports,8657.22,15,7358.64,2,14717.28,CUST34931,Kiran Kumar,26.0,Bengaluru,Karnataka,Debit Card,Delivered,2024-06-14,2024-06-16,2.0,,Value for money
+ORD102260,FKPROD9856,Samsung Galaxy S23,Electronics,116295.05,15,98850.79,2,197701.58,CUST63269,,48.0,,,Net Banking,Shipped,2022-06-18,,,,Fast delivery
+ORD884309,FKPROD7396,Women Kurti Set,Clothing,3719.77,40,2231.86,3,6695.58,CUST65444,,27.0,Chennai,Tamil Nadu,Credit Card,Processing,2023-08-17,,,,Good product
+ORD225710,FKPROD6138,Redmi Note 12,Electronics,6492.01,40,3895.21,5,19476.05,CUST79615,Anjali Gupta,21.0,Delhi,Delhi,Flipkart Pay Later,Delivered,2023-09-02,2023-09-04,2.0,3.7,Fast delivery
+ORD431535,FKPROD5033,Wings of Fire,Books,515.16,5,489.4,4,1957.6,CUST96163,Sanjay Kulkarni,34.0,Surat,Gujarat,Cash on Delivery,Delivered,2022-09-29,2022-10-06,7.0,1.5,
+ORD487477,FKPROD2188,Samsung Galaxy S23,Electronics,55265.12,5,52501.86,1,52501.86,CUST80468,Deepak Verma,50.0,Bengaluru,Karnataka,Debit Card,Shipped,2024-06-19,,,,Excellent!
+ORD385577,FKPROD5669,HP Pavilion x360,Electronics,52863.06,50,26431.53,3,79294.59,CUST90173,Rohan Mehta,60.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2024-06-18,2024-06-21,3.0,2.1,Average quality
+ORD449759,FKPROD5616,Python Crash Course,Books,246.44,25,184.83,2,369.66,CUST93130,Rahul Nair,50.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2023-10-12,2023-10-19,7.0,4.3,Good product
+ORD672092,FKPROD3143,Clean Code,Books,784.86,10,706.37,4,2825.48,CUST82309,Meera Pillai,53.0,Delhi,Delhi,UPI,Processing,2023-12-09,,,,Average quality
+ORD918011,FKPROD1590,Kids Hoodie,Clothing,2412.54,10,2171.29,4,8685.16,CUST26704,Priya Sharma,37.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2023-01-02,2023-01-06,4.0,3.7,Highly recommended
+ORD379766,FKPROD7658,Data Science Handbook,Books,623.63,15,530.09,2,1060.18,CUST33206,Meera Pillai,19.0,Indore,Madhya Pradesh,Debit Card,Cancelled,2023-02-26,,,,Excellent!
+ORD333752,FKPROD3608,Adidas Running Shoes,SPORTS,7101.4,30,4970.98,1,4970.98,CUST71694,Kavita Joshi,30.0,Kolkata,West Bengal,Debit Card,Cancelled,2024-06-11,,,,Excellent!
+ORD128941,FKPROD1387,Nivea Body Lotion,Beauty,602.86,25,452.14,3,1356.42,CUST19099,Rahul Nair,40.0,Pune,Maharashtra,Cash on Delivery,Processing,2023-07-04,,,,Highly recommended
+ORD704596,FKPROD2889,Women Kurti Set,Clothing,877.56,20,702.05,1,702.05,CUST24208,Meera Pillai,40.0,Pune,Maharashtra,EMI,Processing,2022-04-29,,,,Fast delivery
+ORD795612,FKPROD4114,Women Kurti Set,Clothing,367.67,30,257.37,1,257.37,CUST78146,Deepak Verma,41.0,Delhi,Delhi,Cash on Delivery,Shipped,2023-10-01,,,,Highly recommended
+ORD745414,FKPROD3041,WOW Vitamin C Serum,Beauty,2264.11,50,1132.06,3,3396.18,CUST97410,Meera Pillai,38.0,Indore,Madhya Pradesh,Debit Card,Delivered,2022-07-16,2022-07-23,7.0,3.7,Average quality
+ORD932291,FKPROD5930,Prestige Pressure Cooker,Home,5066.05,0,5066.05,3,15198.15,CUST47606,Deepak Verma,,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2023-03-29,2023-04-06,8.0,,
+ORD577538,FKPROD3780,Nivea Body Lotion,Beauty,348.27,50,174.13,5,870.65,CUST53933,Amit Patel,33.0,Hyderabad,Telangana,Flipkart Pay Later,Delivered,2022-01-26,2022-01-27,1.0,,Value for money
+ORD329471,FKPROD7790,Clean Code,Books,501.97,30,351.38,4,1405.52,CUST62383,Kavita Joshi,27.0,Nagpur,Maharashtra,Flipkart Pay Later,Cancelled,2022-04-20,,,,Fast delivery
+ORD970914,FKPROD3881,Nike Gym Gloves,Sports,9591.27,50,4795.64,4,19182.56,CUST16582,Kavita Joshi,25.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2023-06-28,2023-07-07,9.0,,Fast delivery
+ORD345884,FKPROD9976,Cello Plastic Chair,Home,8104.71,40,4862.83,4,19451.32,CUST43972,Kavita Joshi,58.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2023-10-04,2023-10-08,4.0,2.1,Not as expected
+ORD527398,FKPROD5451,Men Polo T-Shirt,Clothing,1413.9,50,706.95,1,706.95,CUST28136,Vikram Singh,32.0,Indore,Madhya Pradesh,Credit Card,Returned,2022-03-07,,,,Fast delivery
+ORD994905,FKPROD6421,Atomic Habits,Books,425.15,0,425.15,2,850.3,CUST65069,Arjun Reddy,55.0,,,Flipkart Pay Later,Delivered,2023-05-04,2023-05-05,1.0,4.8,Fast delivery
+ORD981334,FKPROD7865,Atomic Habits,Books,622.26,50,311.13,5,1555.65,CUST38906,,32.0,Pune,Maharashtra,Net Banking,Delivered,2022-12-11,2022-12-22,11.0,3.7,Average quality
+ORD442722,FKPROD8657,Bose QuietComfort 45,Electronics,117696.28,50,58848.14,1,58848.14,CUST61645,Rohan Mehta,23.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2022-02-21,2022-02-26,5.0,2.5,
+ORD359295,FKPROD6529,Yonex Badminton Racket,Sports,8831.51,20,7065.21,4,28260.84,CUST43065,Amit Patel,48.0,Indore,Madhya Pradesh,EMI,Delivered,2022-12-25,2022-12-29,4.0,3.6,Good product
+ORD426147,FKPROD4266,iPhone 14,Electronics,74749.61,15,63537.17,2,127074.34,CUST72070,Sunita Rao,54.0,Ahmedabad,Gujarat,Cash on Delivery,Delivered,2023-01-13,2023-01-16,3.0,3.4,Average quality
+ORD206851,FKPROD2771,Wings of Fire,Books,116.97,20,93.58,5,467.9,CUST98781,Arjun Reddy,43.0,Delhi,Delhi,EMI,Returned,2023-10-05,,,,Excellent!
+ORD210665,FKPROD5941,Mamaearth Shampoo,Beauty,1559.97,5,1481.97,5,7409.85,CUST15383,Neha Desai,52.0,Surat,Gujarat,Debit Card,Delivered,2023-10-26,2023-11-01,6.0,1.1,
+ORD437960,FKPROD8102,Kids Hoodie,Clothing,2614.22,40,1568.53,2,3137.06,CUST67080,Anjali Gupta,64.0,Surat,Gujarat,Debit Card,Delivered,2023-07-06,2023-07-14,8.0,,Not as expected
+ORD393243,FKPROD5022,Sony WH-1000XM5,Electronics,33831.93,40,20299.16,2,40598.32,CUST70910,Arjun Reddy,39.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-05-15,2023-05-19,4.0,2.4,Highly recommended
+ORD569945,FKPROD5526,Rich Dad Poor Dad,Books,106.11,15,90.19,1,90.19,CUST41635,Meera Pillai,49.0,Nagpur,Maharashtra,Credit Card,Returned,2023-10-24,,,,
+ORD421517,FKPROD1282,Sony WH-1000XM5,Electronics,35661.15,30,24962.81,2,49925.62,CUST50135,Neha Desai,48.0,Jaipur,Rajasthan,Debit Card,Delivered,2024-02-03,2024-02-12,9.0,,Not as expected
+ORD410636,FKPROD5118,LG OLED 55,Electronics,14918.38,15,12680.62,3,38041.86,CUST25670,Anjali Gupta,30.0,Indore,Madhya Pradesh,Net Banking,Delivered,2023-08-27,2023-09-05,9.0,3.4,Excellent!
+ORD207570,FKPROD4727,Kids Hoodie,Clothing,880.88,0,880.88,5,4404.4,CUST26591,Rahul Nair,20.0,Jaipur,Rajasthan,Debit Card,Returned,2022-05-10,,,,
+ORD259097,FKPROD1200,The Alchemist,Books,298.04,40,178.82,4,715.28,CUST54657,Anjali Gupta,21.0,,,Net Banking,Delivered,2022-03-08,2022-03-15,7.0,,Good product
+ORD572398,FKPROD3444,Nike Gym Gloves,Sports,5758.54,20,4606.83,1,4606.83,CUST42530,Sunita Rao,53.0,Lucknow,Uttar Pradesh,EMI,Cancelled,2022-08-20,,,,Fast delivery
+ORD678805,FKPROD8253,Men Formal Shirt,Clothing,3467.63,30,2427.34,3,7282.02,CUST84531,Priya Sharma,57.0,Nagpur,Maharashtra,Credit Card,Delivered,2022-09-28,2022-10-09,11.0,1.3,Average quality
+ORD926097,FKPROD2229,HP Pavilion x360,Electronics,819.75,40,491.85,5,2459.25,CUST71592,Pooja Iyer,20.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2024-05-30,2024-06-07,8.0,1.3,Not as expected
+ORD591465,FKPROD4241,Milton Water Bottle,Home,1297.55,15,1102.92,2,2205.84,CUST44816,Vikram Singh,22.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2024-02-06,2024-02-16,10.0,,Value for money
+ORD733039,FKPROD5982,Biotique Face Wash,Beauty,1094.9,20,875.92,5,4379.6,CUST80776,,46.0,Lucknow,Uttar Pradesh,UPI,Shipped,2024-01-23,,,,Highly recommended
+ORD195674,FKPROD5102,iPhone 14,Electronics,11413.56,0,11413.56,3,34240.68,CUST85529,Priya Sharma,29.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2022-10-12,2022-10-15,3.0,5.0,
+ORD576919,FKPROD8700,Women Saree,Clothing,1750.72,25,1313.04,1,1313.04,CUST31079,Sanjay Kulkarni,44.0,Chennai,Tamil Nadu,Cash on Delivery,Processing,2024-04-13,,,,Good product
+ORD896907,FKPROD2442,Women Leggings,Clothing,1158.12,5,1100.21,4,4400.84,CUST77449,Rohan Mehta,60.0,Ahmedabad,Gujarat,Net Banking,Delivered,2023-06-15,2023-06-21,6.0,,
+ORD425845,FKPROD1845,Mi Smart TV 43,Electronics,32413.22,10,29171.9,3,87515.7,CUST67424,,25.0,Surat,Gujarat,EMI,Cancelled,2023-12-28,,,,Average quality
+ORD355570,FKPROD1224,Rich Dad Poor Dad,Books,384.59,15,326.9,1,326.9,CUST70482,Sunita Rao,59.0,Ahmedabad,Gujarat,Cash on Delivery,Delivered,2023-12-24,2023-12-29,5.0,,
+ORD960408,FKPROD8483,Rich Dad Poor Dad,Books,200.25,15,170.21,5,851.05,CUST76616,Vikram Singh,22.0,Nagpur,Maharashtra,Flipkart Pay Later,Shipped,2022-12-15,,,,Not as expected
+ORD344907,FKPROD1042,Girls Frock,Clothing,2957.99,40,1774.79,2,3549.58,CUST68529,,40.0,Jaipur,Rajasthan,Flipkart Pay Later,Delivered,2023-04-12,2023-04-18,6.0,4.5,Fast delivery
+ORD986088,FKPROD7730,OnePlus 11,Electronics,38522.07,40,23113.24,4,92452.96,CUST60604,Vikram Singh,49.0,Bengaluru,Karnataka,EMI,Processing,2022-12-06,,,,Value for money
+ORD753534,FKPROD8213,boAt Rockerz 450,Electronics,63351.15,40,38010.69,1,38010.69,CUST28894,Meera Pillai,59.0,Delhi,Delhi,Net Banking,Cancelled,2022-09-29,,,,Highly recommended
+ORD883041,FKPROD7512,Lakme Foundation,Beauty,337.74,25,253.31,5,1266.55,CUST59808,Sanjay Kulkarni,58.0,,,EMI,Delivered,2022-03-12,2022-03-16,4.0,3.5,Excellent!
+ORD693418,FKPROD2480,Milton Water Bottle,Home,8810.54,5,8370.01,4,33480.04,CUST31805,Pooja Iyer,19.0,Kolkata,West Bengal,Flipkart Pay Later,Delivered,2023-01-03,2023-01-09,6.0,2.7,Fast delivery
+ORD401603,FKPROD3950,HP Pavilion x360,Electronics,21420.79,30,14994.55,5,74972.75,CUST99539,Kavita Joshi,,Bengaluru,Karnataka,Credit Card,Delivered,2022-09-18,2022-09-26,8.0,2.0,
+ORD702733,FKPROD9955,HP Pavilion x360,Electronics,9326.5,25,6994.88,5,34974.4,CUST49210,Meera Pillai,62.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-01-29,2023-02-06,8.0,1.4,Highly recommended
+ORD329642,FKPROD5847,Biotique Face Wash,Beauty,842.79,30,589.95,3,1769.85,CUST11061,Priya Sharma,56.0,,,Debit Card,Cancelled,2022-08-24,,,,Highly recommended
+ORD284171,FKPROD4115,Data Science Handbook,BOOKS,274.44,10,247.0,1,247.0,CUST92242,Priya Sharma,37.0,Mumbai,Maharashtra,EMI,Delivered,2022-05-15,2022-05-17,2.0,4.6,Fast delivery
+ORD943298,FKPROD4289,Bose QuietComfort 45,Electronics,94488.28,25,70866.21,5,354331.05,CUST75771,Rahul Nair,28.0,,,Net Banking,Processing,2022-10-30,,,,Highly recommended
+ORD712955,FKPROD2886,Solimo Bedsheet,Home,8676.17,10,7808.55,2,15617.1,CUST98647,Arjun Reddy,53.0,Delhi,Delhi,Flipkart Pay Later,Delivered,2022-09-28,2022-10-07,9.0,1.5,Not as expected
+ORD780776,FKPROD7242,Boldfit Resistance Bands,Sports,6492.93,25,4869.7,1,4869.7,CUST98452,Kavita Joshi,48.0,Lucknow,Uttar Pradesh,EMI,Delivered,2023-09-17,2023-09-21,4.0,,Not as expected
+ORD715870,FKPROD7689,JBL Flip 6,Electronics,17203.35,0,17203.35,3,51610.05,CUST74569,Sunita Rao,24.0,Jaipur,Rajasthan,Credit Card,Delivered,2023-01-15,2023-01-26,11.0,,Fast delivery
+ORD163491,FKPROD3531,Philips Air Fryer,Home,5996.82,40,3598.09,5,17990.45,CUST63492,Rahul Nair,20.0,Hyderabad,Telangana,Net Banking,Delivered,2022-08-30,2022-09-05,6.0,1.4,Highly recommended
+ORD925206,FKPROD7523,Boys T-Shirt Pack,Clothing,920.27,5,874.26,4,3497.04,CUST22015,Deepak Verma,,Mumbai,Maharashtra,UPI,Cancelled,2022-09-07,,,,Average quality
+ORD390743,FKPROD4362,Realme 10 Pro,Electronics,99663.23,50,49831.61,2,99663.22,CUST86858,Deepak Verma,32.0,Nagpur,Maharashtra,Credit Card,Cancelled,2023-09-03,,,,Good product
+ORD116547,FKPROD3370,Bose QuietComfort 45,Electronics,65055.75,10,58550.18,1,58550.18,CUST96646,Rohan Mehta,26.0,Kolkata,West Bengal,Flipkart Pay Later,Cancelled,2023-08-26,,,,Highly recommended
+ORD862569,FKPROD3854,Women Kurti Set,Clothing,398.12,30,278.68,5,1393.4,CUST24896,Amit Patel,48.0,Nagpur,Maharashtra,Debit Card,Delivered,2022-04-22,2022-04-30,8.0,,Good product
+ORD437758,FKPROD9543,Men Formal Shirt,Clothing,1939.56,0,1939.56,1,1939.56,CUST72781,Arjun Reddy,45.0,Ahmedabad,Gujarat,Cash on Delivery,Shipped,2022-03-17,,,,Value for money
+ORD550961,FKPROD3430,Realme 10 Pro,Electronics,15579.89,50,7789.94,3,23369.82,CUST59925,Pooja Iyer,47.0,Lucknow,Uttar Pradesh,Net Banking,Delivered,2023-12-20,2023-12-22,2.0,,Excellent!
+ORD972176,FKPROD8398,LG OLED 55,Electronics,49950.72,40,29970.43,4,119881.72,CUST64524,Sunita Rao,38.0,Kolkata,West Bengal,Cash on Delivery,Delivered,2022-06-06,2022-06-17,11.0,4.7,Value for money
+ORD797660,FKPROD2398,Sony WH-1000XM5,Electronics,52109.24,25,39081.93,2,78163.86,CUST82924,Priya Sharma,55.0,Jaipur,Rajasthan,Debit Card,Returned,2023-02-25,,,,Highly recommended
+ORD220465,FKPROD7929,WOW Vitamin C Serum,Beauty,269.9,20,215.92,5,1079.6,CUST50953,Neha Desai,,Jaipur,Rajasthan,Credit Card,Delivered,2023-05-09,2023-05-13,4.0,4.4,Highly recommended
+ORD290217,FKPROD5564,The Alchemist,Books,257.31,30,180.12,5,900.6,CUST91490,Rohan Mehta,56.0,Mumbai,Maharashtra,Credit Card,Delivered,2024-02-20,2024-02-25,5.0,4.7,Good product
+ORD155164,FKPROD3347,The Alchemist,Books,559.14,5,531.18,2,1062.36,CUST92991,Rohan Mehta,23.0,Hyderabad,Telangana,Net Banking,Delivered,2022-12-16,2022-12-19,3.0,2.5,Value for money
+ORD550797,FKPROD3549,HP Pavilion x360,Electronics,90655.09,0,90655.09,1,90655.09,CUST45665,Kiran Kumar,60.0,Ahmedabad,Gujarat,EMI,Delivered,2022-10-07,2022-10-11,4.0,4.0,Highly recommended
+ORD403507,FKPROD2816,Girls Frock,Clothing,2776.23,40,1665.74,5,8328.7,CUST97442,Pooja Iyer,20.0,Pune,Maharashtra,EMI,Delivered,2022-07-29,2022-08-03,5.0,4.8,Not as expected
+ORD175576,FKPROD6375,JBL Flip 6,Electronics,1423.72,30,996.6,2,1993.2,CUST26932,Arjun Reddy,52.0,Jaipur,Rajasthan,EMI,Shipped,2024-04-05,,,,Highly recommended
+ORD220768,FKPROD7505,Cosco Football,Sports,709.33,0,709.33,4,2837.32,CUST20205,Sanjay Kulkarni,54.0,Lucknow,Uttar Pradesh,Net Banking,Returned,2023-03-04,,,,Not as expected
+ORD882033,FKPROD7636,iPhone 14,Electronics,115960.86,10,104364.77,5,521823.85,CUST70305,Neha Desai,23.0,,,UPI,Delivered,2023-08-27,2023-09-03,7.0,3.1,Not as expected
+ORD253557,FKPROD6562,LG OLED 55,Electronics,40301.7,10,36271.53,1,36271.53,CUST76910,Sunita Rao,51.0,Hyderabad,Telangana,Flipkart Pay Later,Delivered,2024-01-15,2024-01-26,11.0,4.3,Value for money
+ORD757685,FKPROD5193,MacBook Air M2,Electronics,21233.13,10,19109.82,1,19109.82,CUST33218,,,Nagpur,Maharashtra,EMI,Delivered,2024-06-22,2024-07-02,10.0,,Highly recommended
+ORD972097,FKPROD6179,Dell Inspiron 15,Electronics,53051.66,40,31831.0,4,127324.0,CUST92756,Pooja Iyer,,Mumbai,Maharashtra,Debit Card,Delivered,2022-11-14,2022-11-22,8.0,2.8,Highly recommended
+ORD949153,FKPROD5703,Realme 10 Pro,Electronics,77537.64,5,73660.76,5,368303.8,CUST87867,Arjun Reddy,,Jaipur,Rajasthan,Flipkart Pay Later,Returned,2022-02-12,,,,
+ORD649525,FKPROD4084,Women Leggings,Clothing,2498.02,50,1249.01,2,2498.02,CUST18109,Kiran Kumar,24.0,Indore,Madhya Pradesh,UPI,Delivered,2022-06-26,2022-06-27,1.0,,
+ORD397949,FKPROD9564,Data Science Handbook,Books,210.12,25,157.59,3,472.77,CUST60779,Meera Pillai,,Mumbai,Maharashtra,Flipkart Pay Later,Delivered,2022-12-09,2022-12-11,2.0,,Fast delivery
+ORD424620,FKPROD5128,WOW Vitamin C Serum,Beauty,2150.18,10,1935.16,3,5805.48,CUST20682,Vikram Singh,40.0,Surat,Gujarat,Cash on Delivery,Returned,2022-05-13,,,,Value for money
+ORD337547,FKPROD7171,Lakme Foundation,Beauty,2009.41,10,1808.47,5,9042.35,CUST22249,Meera Pillai,50.0,Mumbai,Maharashtra,Debit Card,Delivered,2022-08-08,2022-08-14,6.0,,Excellent!
+ORD856215,FKPROD3253,Dell Inspiron 15,Electronics,9721.23,5,9235.17,5,46175.85,CUST80748,Priya Sharma,60.0,Nagpur,Maharashtra,EMI,Delivered,2023-01-21,2023-01-24,3.0,,Average quality
+ORD811256,FKPROD8170,OnePlus 11,Electronics,49597.6,15,42157.96,4,168631.84,CUST90031,Pooja Iyer,65.0,Hyderabad,Telangana,EMI,Delivered,2024-04-08,2024-04-16,8.0,4.6,Highly recommended
+ORD845957,FKPROD8218,Solimo Bedsheet,Home,6993.12,30,4895.18,5,24475.9,CUST79135,Meera Pillai,28.0,Nagpur,Maharashtra,EMI,Delivered,2022-09-14,2022-09-15,1.0,3.6,Value for money
+ORD347231,FKPROD9452,JBL Flip 6,Electronics,34565.03,10,31108.53,3,93325.59,CUST68893,Vikram Singh,45.0,Hyderabad,Telangana,Flipkart Pay Later,Delivered,2022-12-24,2022-12-25,1.0,2.7,Highly recommended
+ORD895702,FKPROD7326,Sony WH-1000XM5,Electronics,45302.06,0,45302.06,3,135906.18,CUST22987,Sanjay Kulkarni,27.0,Mumbai,Maharashtra,Debit Card,Shipped,2023-04-29,,,,Average quality
+ORD350021,FKPROD8685,Cello Plastic Chair,Home,5652.53,5,5369.9,1,5369.9,CUST43544,Deepak Verma,27.0,Indore,Madhya Pradesh,EMI,Delivered,2022-04-24,2022-04-29,5.0,2.0,Good product
+ORD744674,FKPROD7878,Clean Code,Books,654.73,40,392.84,1,392.84,CUST24530,,56.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2022-09-05,2022-09-17,12.0,1.6,Good product
+ORD509420,FKPROD6780,Men Slim Fit Jeans,Clothing,2367.52,10,2130.77,1,2130.77,CUST78614,Neha Desai,22.0,Jaipur,Rajasthan,EMI,Cancelled,2023-06-04,,,,Good product
+ORD239890,FKPROD8702,OnePlus 11,Electronics,76462.66,25,57347.0,3,172041.0,CUST12128,Neha Desai,22.0,Hyderabad,Telangana,Cash on Delivery,Returned,2022-04-17,,,,Highly recommended
+ORD311383,FKPROD1726,Women Saree,Clothing,2273.85,10,2046.46,4,8185.84,CUST72722,Anjali Gupta,26.0,Indore,Madhya Pradesh,Flipkart Pay Later,Processing,2022-02-07,,,,Not as expected
+ORD474314,FKPROD1717,Adidas Running Shoes,Sports,2233.86,0,2233.86,3,6701.58,CUST50642,Arjun Reddy,52.0,Chennai,Tamil Nadu,UPI,Cancelled,2022-07-15,,,,Not as expected
+ORD485191,FKPROD1783,Lakme Foundation,Beauty,929.02,5,882.57,3,2647.71,CUST67272,Arjun Reddy,65.0,Pune,Maharashtra,Debit Card,Processing,2023-05-24,,,,
+ORD274739,FKPROD9507,Boys T-Shirt Pack,Clothing,3243.36,30,2270.35,1,2270.35,CUST66440,Anjali Gupta,52.0,Kolkata,West Bengal,UPI,Delivered,2023-11-08,2023-11-13,5.0,,Fast delivery
+ORD249715,FKPROD8272,Women Saree,Clothing,1898.09,25,1423.57,5,7117.85,CUST67008,Rahul Nair,58.0,Delhi,Delhi,Cash on Delivery,Delivered,2023-01-08,2023-01-17,9.0,4.2,Good product
+ORD565504,FKPROD8179,OnePlus 11,Electronics,15584.49,15,13246.82,3,39740.46,CUST57467,Arjun Reddy,54.0,Lucknow,Uttar Pradesh,Credit Card,Returned,2023-01-15,,,,Highly recommended
+ORD912609,FKPROD2259,The Alchemist,Books,195.39,25,146.54,4,586.16,CUST51207,Rahul Nair,33.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2023-06-15,2023-06-22,7.0,4.7,Not as expected
+ORD949884,FKPROD5264,Himalaya Neem Toner,Beauty,1197.74,20,958.19,4,3832.76,CUST36237,Sunita Rao,26.0,Ahmedabad,Gujarat,Credit Card,Shipped,2023-04-01,,,,Value for money
+ORD932250,FKPROD6236,Nivea Body Lotion,Beauty,965.45,5,917.18,5,4585.9,CUST81063,Pooja Iyer,37.0,Indore,Madhya Pradesh,Cash on Delivery,Shipped,2023-10-16,,,,Average quality
+ORD424314,FKPROD6922,Borosil Glass Set,Home,2249.9,15,1912.41,2,3824.82,CUST41029,,19.0,Jaipur,Rajasthan,EMI,Delivered,2024-04-02,2024-04-11,9.0,1.5,Value for money
+ORD905077,FKPROD7523,Himalaya Neem Toner,BEAUTY,1838.34,50,919.17,4,3676.68,CUST63665,Amit Patel,26.0,Surat,Gujarat,UPI,Delivered,2023-11-28,2023-12-07,9.0,,Average quality
+ORD644103,FKPROD3114,Milton Water Bottle,Home,4673.91,0,4673.91,1,4673.91,CUST77908,Vikram Singh,37.0,Bengaluru,Karnataka,Debit Card,Processing,2022-08-19,,,,Highly recommended
+ORD983456,FKPROD5653,Sony WH-1000XM5,Electronics,30447.33,50,15223.67,3,45671.01,CUST26406,Pooja Iyer,57.0,Delhi,Delhi,EMI,Delivered,2023-08-30,2023-09-09,10.0,,Highly recommended
+ORD773088,FKPROD1674,Boldfit Resistance Bands,Sports,8677.68,5,8243.8,1,8243.8,CUST94076,Rahul Nair,59.0,Nagpur,Maharashtra,EMI,Delivered,2023-10-17,2023-10-18,1.0,,Not as expected
+ORD853258,FKPROD5949,Amazon Basic Curtains,Home,2429.44,30,1700.61,3,5101.83,CUST69446,Amit Patel,62.0,Bengaluru,Karnataka,Net Banking,Delivered,2023-04-21,2023-04-25,4.0,2.4,Highly recommended
+ORD153063,FKPROD6231,WOW Vitamin C Serum,Beauty,2470.85,25,1853.14,4,7412.56,CUST27139,Neha Desai,50.0,Delhi,Delhi,Debit Card,Delivered,2022-05-06,2022-05-11,5.0,2.8,Value for money
+ORD124302,FKPROD5754,Men Chinos,Clothing,3482.82,30,2437.97,2,4875.94,CUST30932,Sanjay Kulkarni,54.0,Hyderabad,Telangana,Flipkart Pay Later,Delivered,2023-06-12,2023-06-20,8.0,3.0,
+ORD988324,FKPROD2475,Prestige Pressure Cooker,Home,4696.37,15,3991.91,2,7983.82,CUST86460,Neha Desai,21.0,Chennai,Tamil Nadu,Net Banking,Delivered,2024-05-13,2024-05-24,11.0,3.7,Good product
+ORD901535,FKPROD2761,Milton Water Bottle,HOME,1464.23,20,1171.38,3,3514.14,CUST62855,Neha Desai,20.0,Mumbai,Maharashtra,EMI,Delivered,2023-01-07,2023-01-16,9.0,2.2,
+ORD624369,FKPROD5582,Boldfit Resistance Bands,Sports,9893.18,5,9398.52,2,18797.04,CUST22672,Arjun Reddy,41.0,Jaipur,Rajasthan,Debit Card,Cancelled,2022-07-23,,,,Fast delivery
+ORD722565,FKPROD1659,OnePlus 11,Electronics,5150.22,25,3862.66,4,15450.64,CUST78069,Kiran Kumar,,Jaipur,Rajasthan,Credit Card,Delivered,2023-09-20,2023-09-26,6.0,,Not as expected
+ORD935457,FKPROD6511,Borosil Glass Set,Home,7505.12,50,3752.56,4,15010.24,CUST83783,Pooja Iyer,48.0,Kolkata,West Bengal,Debit Card,Returned,2023-03-03,,,,Not as expected
+ORD700383,FKPROD1436,Python Crash Course,Books,431.21,15,366.53,1,366.53,CUST86483,,28.0,Surat,Gujarat,Cash on Delivery,Delivered,2024-05-11,2024-05-18,7.0,1.6,Good product
+ORD840058,FKPROD2800,MacBook Air M2,Electronics,2763.02,25,2072.26,4,8289.04,CUST29848,Meera Pillai,62.0,Pune,Maharashtra,EMI,Cancelled,2023-04-28,,,,Good product
+ORD301603,FKPROD3262,Royalford Frying Pan,Home,2102.87,25,1577.15,4,6308.6,CUST78875,Arjun Reddy,38.0,Ahmedabad,Gujarat,EMI,Delivered,2022-12-29,2023-01-09,11.0,4.1,
+ORD513697,FKPROD5038,Boys T-Shirt Pack,Clothing,2319.73,15,1971.77,3,5915.31,CUST47880,Deepak Verma,62.0,Kolkata,West Bengal,Net Banking,Delivered,2024-03-25,2024-04-06,12.0,2.1,Fast delivery
+ORD968170,FKPROD6654,Nivia Cricket Bat,Sports,8103.77,20,6483.02,1,6483.02,CUST47700,Amit Patel,40.0,Surat,Gujarat,Debit Card,Returned,2022-08-08,,,,Excellent!
+ORD205428,FKPROD9824,Boys T-Shirt Pack,Clothing,3744.49,20,2995.59,2,5991.18,CUST24316,Kavita Joshi,33.0,Surat,Gujarat,EMI,Delivered,2022-08-27,2022-08-28,1.0,1.4,
+ORD661147,FKPROD3252,Samsung Galaxy S23,Electronics,115759.99,10,104183.99,4,416735.96,CUST95575,,48.0,Nagpur,Maharashtra,Debit Card,Delivered,2023-10-24,2023-10-25,1.0,4.6,Excellent!
+ORD576419,FKPROD1611,Lenovo IdeaPad,ELECTRONICS,50437.26,10,45393.53,1,45393.53,CUST62034,,29.0,Mumbai,Maharashtra,UPI,Delivered,2023-09-10,2023-09-12,2.0,4.7,Not as expected
+ORD853504,FKPROD9901,Royalford Frying Pan,Home,4596.04,10,4136.44,5,20682.2,CUST71344,Rahul Nair,30.0,Kolkata,West Bengal,Credit Card,Returned,2023-10-26,,,,Not as expected
+ORD640310,FKPROD4050,Samsung Galaxy S23,Electronics,88525.84,20,70820.67,5,354103.35,CUST98395,Deepak Verma,,,,Cash on Delivery,Shipped,2024-04-26,,,,Fast delivery
+ORD374258,FKPROD6372,Sony WH-1000XM5,Electronics,48399.57,5,45979.59,2,91959.18,CUST28430,,38.0,Mumbai,Maharashtra,Debit Card,Delivered,2023-04-03,2023-04-08,5.0,4.8,Good product
+ORD744481,FKPROD6890,Biotique Face Wash,Beauty,704.31,5,669.09,4,2676.36,CUST50213,Anjali Gupta,43.0,Indore,Madhya Pradesh,Flipkart Pay Later,Delivered,2022-05-01,2022-05-12,11.0,4.7,Highly recommended
+ORD651033,FKPROD4618,LG OLED 55,Electronics,114904.58,40,68942.75,2,137885.5,CUST69634,Neha Desai,44.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-11-12,2023-11-16,4.0,,Value for money
+ORD813341,FKPROD8319,Royalford Frying Pan,Home,6421.77,5,6100.68,5,30503.4,CUST24707,Priya Sharma,53.0,Hyderabad,Telangana,EMI,Delivered,2022-06-18,2022-06-24,6.0,,Value for money
+ORD515182,FKPROD4365,Himalaya Neem Toner,Beauty,1519.4,5,1443.43,5,7217.15,CUST68390,Priya Sharma,47.0,Jaipur,Rajasthan,Net Banking,Delivered,2022-03-01,2022-03-10,9.0,2.8,Good product
+ORD401036,FKPROD5169,Boldfit Resistance Bands,Sports,328.25,15,279.01,5,1395.05,CUST19572,Priya Sharma,45.0,Indore,Madhya Pradesh,UPI,Delivered,2022-03-03,2022-03-05,2.0,,Good product
+ORD785280,FKPROD7698,Lenovo IdeaPad,Electronics,92392.16,30,64674.51,3,194023.53,CUST60132,Kiran Kumar,42.0,Delhi,Delhi,Cash on Delivery,Processing,2024-06-14,,,,Average quality
+ORD806215,FKPROD6697,JBL Flip 6,Electronics,21827.6,50,10913.8,4,43655.2,CUST79316,Vikram Singh,64.0,,,UPI,Cancelled,2022-11-02,,,,
+ORD744793,FKPROD9920,Milton Water Bottle,Home,4926.82,15,4187.8,2,8375.6,CUST70375,Neha Desai,27.0,Hyderabad,Telangana,Cash on Delivery,Cancelled,2022-02-02,,,,Fast delivery
+ORD628373,FKPROD1256,Men Slim Fit Jeans,Clothing,982.11,5,933.0,5,4665.0,CUST14400,Kiran Kumar,56.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2023-03-26,2023-03-30,4.0,3.2,Average quality
+ORD756401,FKPROD5739,LG OLED 55,Electronics,97986.46,25,73489.85,5,367449.25,CUST88370,Sanjay Kulkarni,33.0,Bengaluru,Karnataka,Cash on Delivery,Delivered,2023-02-28,2023-03-05,5.0,,Average quality
+ORD999197,FKPROD7999,Rich Dad Poor Dad,Books,445.93,25,334.45,4,1337.8,CUST78742,Sanjay Kulkarni,62.0,Pune,Maharashtra,Credit Card,Delivered,2022-07-08,2022-07-17,9.0,2.9,Not as expected
+ORD196955,FKPROD3365,Nike Gym Gloves,Sports,4790.34,0,4790.34,5,23951.7,CUST64090,Meera Pillai,53.0,Bengaluru,Karnataka,Net Banking,Delivered,2022-07-28,2022-08-03,6.0,,Highly recommended
+ORD417915,FKPROD9775,WOW Vitamin C Serum,Beauty,2098.1,0,2098.1,3,6294.3,CUST59436,Priya Sharma,22.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2023-11-19,2023-11-28,9.0,1.9,Highly recommended
+ORD659572,FKPROD1251,Mi Smart TV 43,Electronics,112490.59,5,106866.06,4,427464.24,CUST41797,Deepak Verma,43.0,Jaipur,Rajasthan,Debit Card,Cancelled,2023-01-25,,,,
+ORD877259,FKPROD6886,Men Formal Shirt,Clothing,1192.93,50,596.47,4,2385.88,CUST71080,Sunita Rao,64.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2022-07-28,2022-08-03,6.0,2.3,Excellent!
+ORD369826,FKPROD3390,iPhone 14,Electronics,31662.51,30,22163.76,3,66491.28,CUST29976,Deepak Verma,39.0,Pune,Maharashtra,EMI,Shipped,2023-05-27,,,,Highly recommended
+ORD979827,FKPROD9005,WOW Vitamin C Serum,Beauty,1656.98,40,994.19,4,3976.76,CUST32050,Neha Desai,28.0,Indore,Madhya Pradesh,EMI,Delivered,2024-06-29,2024-07-08,9.0,5.0,Good product
+ORD791309,FKPROD2217,Boldfit Resistance Bands,Sports,6780.69,0,6780.69,4,27122.76,CUST28021,Kavita Joshi,22.0,Mumbai,Maharashtra,Credit Card,Delivered,2023-01-18,2023-01-19,1.0,,
+ORD200992,FKPROD8993,iPhone 14,ELECTRONICS,1290.18,50,645.09,4,2580.36,CUST11553,Rohan Mehta,51.0,Jaipur,Rajasthan,Debit Card,Delivered,2024-04-12,2024-04-24,12.0,3.7,Value for money
+ORD198042,FKPROD9591,Dell Inspiron 15,Electronics,29295.78,50,14647.89,3,43943.67,CUST56457,Rahul Nair,43.0,Kolkata,West Bengal,Net Banking,Delivered,2022-09-07,2022-09-19,12.0,1.9,Good product
+ORD693343,FKPROD7640,Men Chinos,Clothing,1632.24,40,979.34,1,979.34,CUST93459,Rohan Mehta,62.0,Delhi,Delhi,Net Banking,Shipped,2023-10-23,,,,Highly recommended
+ORD288066,FKPROD2562,Royalford Frying Pan,Home,8295.62,15,7051.28,2,14102.56,CUST84289,,35.0,Delhi,Delhi,Cash on Delivery,Shipped,2023-07-11,,,,Good product
+ORD502491,FKPROD6152,iPhone 14,Electronics,115395.57,10,103856.01,4,415424.04,CUST20084,Pooja Iyer,,Hyderabad,Telangana,EMI,Shipped,2023-02-03,,,,Highly recommended
+ORD131064,FKPROD3292,Adidas Running Shoes,Sports,9887.24,5,9392.88,5,46964.4,CUST55332,Priya Sharma,24.0,Hyderabad,Telangana,Flipkart Pay Later,Delivered,2023-09-12,2023-09-22,10.0,4.8,Highly recommended
+ORD936821,FKPROD5478,Adidas Running Shoes,Sports,9927.08,40,5956.25,2,11912.5,CUST56636,Arjun Reddy,45.0,Surat,Gujarat,EMI,Returned,2022-03-29,,,,Not as expected
+ORD238943,FKPROD5037,Himalaya Neem Toner,Beauty,321.74,20,257.39,2,514.78,CUST59807,Vikram Singh,65.0,Kolkata,West Bengal,Debit Card,Delivered,2022-01-06,2022-01-11,5.0,2.8,Value for money
+ORD406024,FKPROD2430,Lenovo IdeaPad,Electronics,52002.05,50,26001.03,5,130005.15,CUST77166,Meera Pillai,24.0,Delhi,Delhi,Debit Card,Delivered,2023-09-04,2023-09-14,10.0,4.1,Good product
+ORD389366,FKPROD7779,Men Chinos,Clothing,3159.84,50,1579.92,2,3159.84,CUST84967,Anjali Gupta,61.0,Bengaluru,Karnataka,Credit Card,Delivered,2022-10-02,2022-10-10,8.0,1.6,Fast delivery
+ORD982495,FKPROD7899,Men Formal Shirt,Clothing,2039.08,5,1937.13,3,5811.39,CUST42990,Kavita Joshi,64.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-04-20,2022-04-23,3.0,2.2,Highly recommended
+ORD870571,FKPROD7224,Nike Gym Gloves,Sports,8662.32,40,5197.39,3,15592.17,CUST66441,Vikram Singh,37.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2022-11-18,2022-11-21,3.0,4.9,Not as expected
+ORD862538,FKPROD9044,The Alchemist,Books,646.38,25,484.78,4,1939.12,CUST46739,Arjun Reddy,41.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,2023-07-13,2023-07-16,3.0,,Good product
+ORD927406,FKPROD8563,Himalaya Neem Toner,Beauty,641.67,20,513.34,1,513.34,CUST63627,,26.0,Hyderabad,Telangana,Debit Card,Returned,2024-01-03,,,,Fast delivery
+ORD214682,FKPROD7176,Realme 10 Pro,Electronics,54163.47,40,32498.08,5,162490.4,CUST62534,Meera Pillai,52.0,Nagpur,Maharashtra,Debit Card,Returned,2024-04-11,,,,Value for money
+ORD567432,FKPROD5067,Nivea Body Lotion,Beauty,1711.03,10,1539.93,5,7699.65,CUST15806,Arjun Reddy,39.0,Delhi,Delhi,UPI,Delivered,2022-08-16,2022-08-25,9.0,,Excellent!
+ORD971699,FKPROD7129,Prestige Pressure Cooker,Home,4327.65,50,2163.82,2,4327.64,CUST55215,Rohan Mehta,48.0,Chennai,Tamil Nadu,Net Banking,Shipped,2022-03-29,,,,Value for money
+ORD170437,FKPROD3321,Women Saree,Clothing,1384.18,40,830.51,2,1661.02,CUST78303,,40.0,Delhi,Delhi,Net Banking,Returned,2023-04-09,,,,Highly recommended
+ORD343118,FKPROD5919,OnePlus 11,Electronics,97317.22,5,92451.36,1,92451.36,CUST54967,Sunita Rao,61.0,Indore,Madhya Pradesh,Credit Card,Delivered,2023-07-20,2023-07-23,3.0,2.3,
+ORD938338,FKPROD7636,Clean Code,Books,228.12,30,159.68,4,638.72,CUST13826,Deepak Verma,,Pune,Maharashtra,Net Banking,Delivered,2022-08-08,2022-08-12,4.0,2.1,Value for money
+ORD469082,FKPROD9796,Lenovo IdeaPad,Electronics,44212.27,15,37580.43,4,150321.72,CUST24936,Rahul Nair,60.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2023-02-02,2023-02-12,10.0,2.6,Highly recommended
+ORD538555,FKPROD8501,Data Science Handbook,Books,219.77,20,175.82,5,879.1,CUST87354,Amit Patel,61.0,Kolkata,West Bengal,UPI,Delivered,2022-04-30,2022-05-03,3.0,2.5,Fast delivery
+ORD608149,FKPROD3258,The Alchemist,Books,367.6,10,330.84,4,1323.36,CUST93296,Anjali Gupta,53.0,Ahmedabad,Gujarat,Debit Card,Delivered,2022-11-19,2022-11-27,8.0,3.5,Good product
+ORD186686,FKPROD3236,MacBook Air M2,ELECTRONICS,97918.3,50,48959.15,5,244795.75,CUST95599,,44.0,Pune,Maharashtra,Cash on Delivery,Shipped,2023-05-16,,,,Average quality
+ORD380901,FKPROD1505,Adidas Running Shoes,Sports,7681.25,20,6145.0,1,6145.0,CUST46025,Kavita Joshi,52.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2024-01-31,2024-02-08,8.0,3.2,Value for money
+ORD133796,FKPROD9898,Boldfit Resistance Bands,Sports,9910.67,50,4955.34,1,4955.34,CUST67850,Deepak Verma,45.0,Indore,Madhya Pradesh,Flipkart Pay Later,Returned,2022-09-11,,,,Not as expected
+ORD274044,FKPROD8368,Women Kurti Set,Clothing,1523.59,5,1447.41,4,5789.64,CUST25386,Kavita Joshi,,Indore,Madhya Pradesh,Debit Card,Shipped,2023-09-17,,,,Fast delivery
+ORD242175,FKPROD3281,Adidas Running Shoes,Sports,2303.21,15,1957.73,1,1957.73,CUST84720,Neha Desai,52.0,Lucknow,Uttar Pradesh,EMI,Delivered,2023-12-22,2023-12-27,5.0,2.2,Value for money
+ORD613234,FKPROD7743,Redmi Note 12,Electronics,119102.1,10,107191.89,2,214383.78,CUST42725,Vikram Singh,63.0,,,Credit Card,Cancelled,2023-11-24,,,,Fast delivery
+ORD576782,FKPROD3329,The Alchemist,Books,541.68,30,379.18,4,1516.72,CUST69243,Amit Patel,58.0,Pune,Maharashtra,EMI,Returned,2023-12-13,,,,Highly recommended
+ORD618746,FKPROD8996,Women Leggings,Clothing,2410.43,5,2289.91,4,9159.64,CUST93209,Neha Desai,22.0,Pune,Maharashtra,Credit Card,Processing,2024-04-24,,,,Excellent!
+ORD148174,FKPROD5399,Women Leggings,Clothing,3346.71,25,2510.03,5,12550.15,CUST85750,Vikram Singh,54.0,Nagpur,Maharashtra,Debit Card,Shipped,2024-02-20,,,,Good product
+ORD387330,FKPROD2631,Clean Code,Books,647.72,40,388.63,1,388.63,CUST26284,Anjali Gupta,46.0,Mumbai,Maharashtra,Net Banking,Delivered,2023-12-07,2023-12-10,3.0,4.5,Average quality
+ORD550081,FKPROD2529,Lakme Foundation,Beauty,996.02,5,946.22,3,2838.66,CUST97098,Anjali Gupta,21.0,Surat,Gujarat,Debit Card,Returned,2024-02-13,,,,Excellent!
+ORD827744,FKPROD2494,Himalaya Neem Toner,Beauty,372.68,15,316.78,4,1267.12,CUST20215,Vikram Singh,55.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2022-01-09,2022-01-21,12.0,2.4,Fast delivery
+ORD656278,FKPROD3165,Amazon Basic Curtains,Home,915.21,30,640.65,1,640.65,CUST23425,Sunita Rao,38.0,Chennai,Tamil Nadu,Credit Card,Delivered,2024-04-12,2024-04-15,3.0,3.6,Value for money
+ORD246814,FKPROD1138,Data Science Handbook,Books,554.01,40,332.41,3,997.23,CUST37925,Vikram Singh,,Surat,Gujarat,Net Banking,Shipped,2022-03-30,,,,Value for money
+ORD989079,FKPROD3017,Wings of Fire,BOOKS,610.01,25,457.51,4,1830.04,CUST51222,Vikram Singh,33.0,Surat,Gujarat,UPI,Delivered,2023-09-08,2023-09-18,10.0,3.9,Good product
+ORD218220,FKPROD5942,Mi Smart TV 43,Electronics,62371.02,50,31185.51,2,62371.02,CUST61347,Pooja Iyer,59.0,Nagpur,Maharashtra,Flipkart Pay Later,Processing,2023-05-22,,,,Fast delivery
+ORD672896,FKPROD4949,Pigeon Gas Stove,Home,5850.32,5,5557.8,5,27789.0,CUST11581,Neha Desai,38.0,Pune,Maharashtra,Flipkart Pay Later,Shipped,2023-03-07,,,,Highly recommended
+ORD631219,FKPROD3830,Yonex Badminton Racket,Sports,4867.84,5,4624.45,1,4624.45,CUST86986,Amit Patel,18.0,Hyderabad,Telangana,UPI,Shipped,2024-03-19,,,,Fast delivery
+ORD662445,FKPROD5693,Clean Code,Books,597.84,30,418.49,4,1673.96,CUST62727,Amit Patel,58.0,Jaipur,Rajasthan,EMI,Delivered,2022-03-27,2022-04-01,5.0,1.3,Average quality
+ORD113280,FKPROD6353,Prestige Pressure Cooker,Home,5401.0,5,5130.95,3,15392.85,CUST67342,Kavita Joshi,21.0,Delhi,Delhi,Net Banking,Delivered,2023-09-19,2023-09-29,10.0,1.2,Value for money
+ORD908903,FKPROD3248,Biotique Face Wash,Beauty,175.67,40,105.4,3,316.2,CUST78551,Rahul Nair,28.0,Bengaluru,Karnataka,Cash on Delivery,Cancelled,2022-10-03,,,,Value for money
+ORD485548,FKPROD1480,Men Polo T-Shirt,Clothing,3266.01,20,2612.81,5,13064.05,CUST18371,Rahul Nair,,Surat,Gujarat,UPI,Delivered,2023-06-08,2023-06-14,6.0,,Average quality
+ORD335421,FKPROD3577,Women Kurti Set,Clothing,3137.65,5,2980.77,2,5961.54,CUST76692,Rohan Mehta,20.0,Hyderabad,Telangana,UPI,Delivered,2023-01-28,2023-01-31,3.0,1.7,Fast delivery
+ORD587686,FKPROD6272,Men Slim Fit Jeans,Clothing,1780.78,25,1335.59,3,4006.77,CUST20208,Neha Desai,25.0,Surat,Gujarat,UPI,Delivered,2024-04-03,2024-04-12,9.0,4.9,Value for money
+ORD720432,FKPROD5625,Nivia Cricket Bat,SPORTS,8494.01,25,6370.51,1,6370.51,CUST82494,Kiran Kumar,18.0,Hyderabad,Telangana,Debit Card,Delivered,2022-11-08,2022-11-20,12.0,,Highly recommended
+ORD895794,FKPROD9083,Nivia Cricket Bat,SPORTS,7825.09,50,3912.55,2,7825.1,CUST29735,Rohan Mehta,44.0,Hyderabad,Telangana,EMI,Delivered,2024-05-09,2024-05-21,12.0,4.5,Good product
+ORD342716,FKPROD7164,Cosco Football,SPORTS,7352.99,5,6985.34,2,13970.68,CUST79443,Kavita Joshi,44.0,Mumbai,Maharashtra,Credit Card,Returned,2022-04-06,,,,Good product
+ORD405844,FKPROD9515,Philips Air Fryer,Home,6396.37,25,4797.28,4,19189.12,CUST21128,Sunita Rao,50.0,Surat,Gujarat,Flipkart Pay Later,Delivered,2023-08-30,2023-09-09,10.0,1.2,Excellent!
+ORD571404,FKPROD5276,Women Leggings,Clothing,3717.96,30,2602.57,3,7807.71,CUST51688,Kiran Kumar,35.0,Delhi,Delhi,Credit Card,Delivered,2024-02-28,2024-03-09,10.0,1.4,Average quality
+ORD325465,FKPROD8635,Women Leggings,Clothing,1743.75,50,871.88,3,2615.64,CUST37215,Kiran Kumar,37.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2022-06-11,2022-06-22,11.0,,Good product
+ORD996114,FKPROD6370,Dell Inspiron 15,Electronics,11399.94,15,9689.95,3,29069.85,CUST61936,Priya Sharma,61.0,Chennai,Tamil Nadu,Flipkart Pay Later,Processing,2022-02-01,,,,Fast delivery
+ORD307757,FKPROD8408,Rich Dad Poor Dad,Books,622.65,15,529.25,1,529.25,CUST70560,Sunita Rao,26.0,Mumbai,Maharashtra,UPI,Shipped,2022-08-16,,,,Average quality
+ORD196446,FKPROD7563,Kids Hoodie,Clothing,2806.88,5,2666.54,5,13332.7,CUST86823,Rahul Nair,22.0,Delhi,Delhi,Credit Card,Shipped,2023-03-31,,,,Average quality
+ORD393448,FKPROD6432,JBL Flip 6,Electronics,5602.21,40,3361.33,1,3361.33,CUST32018,Meera Pillai,64.0,Ahmedabad,Gujarat,UPI,Delivered,2023-03-13,2023-03-16,3.0,2.4,Not as expected
+ORD761393,FKPROD8307,Dell Inspiron 15,Electronics,4640.61,15,3944.52,3,11833.56,CUST75390,Meera Pillai,53.0,Mumbai,Maharashtra,UPI,Delivered,2022-05-21,2022-05-28,7.0,,Excellent!
+ORD950069,FKPROD9907,Adidas Running Shoes,Sports,488.44,30,341.91,3,1025.73,CUST72873,,,Jaipur,Rajasthan,Debit Card,Delivered,2022-07-04,2022-07-05,1.0,2.3,Good product
+ORD472039,FKPROD5602,Redmi Note 12,Electronics,97134.14,40,58280.48,5,291402.4,CUST56849,Kavita Joshi,28.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2023-07-01,2023-07-13,12.0,1.2,Fast delivery
+ORD139807,FKPROD3846,Lenovo IdeaPad,Electronics,28767.86,25,21575.9,3,64727.7,CUST87537,Rohan Mehta,63.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-07-12,2022-07-20,8.0,3.2,
+ORD941403,FKPROD2478,Redmi Note 12,Electronics,28298.49,15,24053.72,1,24053.72,CUST79002,,18.0,Lucknow,Uttar Pradesh,Credit Card,Cancelled,2022-12-15,,,,Average quality
+ORD867926,FKPROD6301,Redmi Note 12,Electronics,3118.59,10,2806.73,1,2806.73,CUST78982,Neha Desai,22.0,Indore,Madhya Pradesh,Cash on Delivery,Delivered,2022-04-14,2022-04-20,6.0,2.2,Average quality
+ORD836109,FKPROD8157,Adidas Running Shoes,Sports,6499.88,40,3899.93,3,11699.79,CUST32833,Neha Desai,,,,Credit Card,Delivered,2024-01-22,2024-02-03,12.0,2.2,Good product
+ORD463656,FKPROD7415,Nivia Cricket Bat,SPORTS,9661.28,0,9661.28,2,19322.56,CUST88956,Sanjay Kulkarni,57.0,Surat,Gujarat,EMI,Delivered,2023-05-24,2023-05-27,3.0,2.3,Excellent!
+ORD559507,FKPROD6234,HP Pavilion x360,Electronics,76524.32,5,72698.1,3,218094.3,CUST68540,Rohan Mehta,34.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2022-09-20,2022-09-22,2.0,3.9,Fast delivery
+ORD938016,FKPROD7875,HP Pavilion x360,Electronics,106203.96,40,63722.38,4,254889.52,CUST56036,Arjun Reddy,24.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2024-02-16,2024-02-27,11.0,,Value for money
+ORD838726,FKPROD1547,Girls Frock,Clothing,275.3,20,220.24,1,220.24,CUST19725,Sanjay Kulkarni,28.0,Bengaluru,Karnataka,Cash on Delivery,Delivered,2022-04-06,2022-04-12,6.0,,
+ORD792687,FKPROD1507,Milton Water Bottle,Home,8498.25,10,7648.43,5,38242.15,CUST66911,Anjali Gupta,21.0,Kolkata,West Bengal,Credit Card,Processing,2023-02-24,,,,Not as expected
+ORD201698,FKPROD5612,Men Formal Shirt,Clothing,1101.68,0,1101.68,4,4406.72,CUST84943,,27.0,Kolkata,West Bengal,UPI,Delivered,2022-10-29,2022-11-09,11.0,,Excellent!
+ORD773045,FKPROD1421,Mi Smart TV 43,Electronics,20914.45,20,16731.56,1,16731.56,CUST72071,Sunita Rao,37.0,Ahmedabad,Gujarat,Net Banking,Shipped,2022-09-29,,,,Value for money
+ORD189870,FKPROD9914,Men Chinos,Clothing,901.55,30,631.08,3,1893.24,CUST34455,Kiran Kumar,20.0,Ahmedabad,Gujarat,Net Banking,Delivered,2024-05-07,2024-05-12,5.0,3.3,Value for money
+ORD599397,FKPROD6632,Nike Gym Gloves,Sports,5551.06,15,4718.4,5,23592.0,CUST17993,Arjun Reddy,51.0,Jaipur,Rajasthan,Cash on Delivery,Shipped,2023-05-02,,,,Excellent!
+ORD232315,FKPROD5896,Sony WH-1000XM5,Electronics,47679.12,0,47679.12,5,238395.6,CUST84870,Vikram Singh,25.0,Bengaluru,Karnataka,Credit Card,Processing,2024-04-07,,,,Excellent!
+ORD506951,FKPROD1699,Milton Water Bottle,Home,980.81,30,686.57,2,1373.14,CUST92211,Vikram Singh,56.0,Kolkata,West Bengal,Cash on Delivery,Shipped,2022-03-10,,,,Value for money
+ORD256911,FKPROD7510,Rich Dad Poor Dad,Books,327.29,20,261.83,5,1309.15,CUST70051,Rohan Mehta,,Lucknow,Uttar Pradesh,EMI,Cancelled,2022-04-26,,,,Fast delivery
+ORD280564,FKPROD3428,The Alchemist,Books,510.55,5,485.02,1,485.02,CUST83752,Sunita Rao,36.0,Kolkata,West Bengal,Net Banking,Delivered,2023-11-02,2023-11-10,8.0,,Good product
+ORD393964,FKPROD5512,Prestige Pressure Cooker,Home,1550.52,30,1085.36,1,1085.36,CUST61877,Sanjay Kulkarni,62.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2022-10-03,2022-10-09,6.0,1.1,Not as expected
+ORD896386,FKPROD9054,Biotique Face Wash,Beauty,1758.4,15,1494.64,2,2989.28,CUST49384,Kiran Kumar,38.0,Indore,Madhya Pradesh,Net Banking,Delivered,2022-04-02,2022-04-06,4.0,2.8,
+ORD282176,FKPROD9462,Kids Hoodie,Clothing,3318.87,50,1659.43,2,3318.86,CUST18600,Pooja Iyer,63.0,Pune,Maharashtra,Credit Card,Cancelled,2023-06-21,,,,Good product
+ORD766275,FKPROD4158,MacBook Air M2,Electronics,100518.71,15,85440.9,1,85440.9,CUST69827,Priya Sharma,41.0,Chennai,Tamil Nadu,Debit Card,Cancelled,2023-06-02,,,,Fast delivery
+ORD128783,FKPROD3029,Mamaearth Shampoo,Beauty,220.82,25,165.62,4,662.48,CUST87862,Kiran Kumar,29.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-06-17,2022-06-22,5.0,4.0,Not as expected
+ORD730343,FKPROD7333,Redmi Note 12,Electronics,19967.43,15,16972.32,2,33944.64,CUST94853,Kavita Joshi,61.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2022-01-21,2022-02-01,11.0,1.0,Average quality
+ORD107704,FKPROD1138,LG OLED 55,Electronics,30660.66,20,24528.53,3,73585.59,CUST65549,Arjun Reddy,40.0,Chennai,Tamil Nadu,Credit Card,Delivered,2023-11-25,2023-12-04,9.0,4.3,Value for money
+ORD787991,FKPROD9380,Nivea Body Lotion,Beauty,2420.24,25,1815.18,5,9075.9,CUST94848,Pooja Iyer,37.0,Ahmedabad,Gujarat,UPI,Delivered,2022-10-11,2022-10-22,11.0,2.3,Not as expected
+ORD409963,FKPROD5895,MacBook Air M2,Electronics,18416.55,15,15654.07,1,15654.07,CUST88647,Arjun Reddy,60.0,Surat,Gujarat,Credit Card,Returned,2023-11-03,,,,
+ORD981473,FKPROD5250,Philips Air Fryer,Home,3819.01,0,3819.01,5,19095.05,CUST84978,Deepak Verma,39.0,Surat,Gujarat,EMI,Delivered,2023-05-03,2023-05-14,11.0,2.4,Average quality
+ORD489737,FKPROD3967,Girls Frock,Clothing,569.89,10,512.9,3,1538.7,CUST83273,Anjali Gupta,61.0,Surat,Gujarat,UPI,Delivered,2022-08-17,2022-08-29,12.0,4.5,Highly recommended
+ORD533174,FKPROD5269,Wings of Fire,Books,304.84,5,289.6,4,1158.4,CUST17035,Amit Patel,48.0,Jaipur,Rajasthan,UPI,Shipped,2023-01-26,,,,Not as expected
+ORD765320,FKPROD1885,Dell Inspiron 15,Electronics,16915.15,15,14377.88,3,43133.64,CUST63633,Kiran Kumar,27.0,,,Cash on Delivery,Delivered,2022-03-24,2022-04-01,8.0,2.3,Highly recommended
+ORD104895,FKPROD1950,Samsung Galaxy S23,Electronics,54520.36,15,46342.31,2,92684.62,CUST85534,Anjali Gupta,49.0,Bengaluru,Karnataka,EMI,Delivered,2023-03-16,2023-03-23,7.0,,Fast delivery
+ORD627786,FKPROD1618,Atomic Habits,Books,238.59,25,178.94,1,178.94,CUST52233,Deepak Verma,19.0,Surat,Gujarat,Cash on Delivery,Delivered,2023-12-12,2023-12-18,6.0,2.2,Fast delivery
+ORD476701,FKPROD6015,HP Pavilion x360,Electronics,8301.8,0,8301.8,3,24905.4,CUST48119,Kiran Kumar,64.0,Lucknow,Uttar Pradesh,EMI,Delivered,2024-06-28,2024-07-09,11.0,5.0,
+ORD771425,FKPROD4087,HP Pavilion x360,Electronics,113796.08,30,79657.26,1,79657.26,CUST39939,Kavita Joshi,64.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2023-06-01,2023-06-04,3.0,1.5,Fast delivery
+ORD835962,FKPROD5190,Nivia Cricket Bat,Sports,5485.91,0,5485.91,5,27429.55,CUST16286,Sunita Rao,59.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2023-03-31,2023-04-07,7.0,1.5,
+ORD396439,FKPROD3508,Mi Smart TV 43,Electronics,83575.45,0,83575.45,3,250726.35,CUST65164,Sunita Rao,60.0,Chennai,Tamil Nadu,EMI,Delivered,2022-05-21,2022-05-28,7.0,4.3,Value for money
+ORD446663,FKPROD2867,Adidas Running Shoes,Sports,1329.76,15,1130.3,5,5651.5,CUST36181,Rahul Nair,51.0,Kolkata,West Bengal,Cash on Delivery,Delivered,2022-06-14,2022-06-15,1.0,3.2,
+ORD410401,FKPROD4842,Samsung Galaxy S23,Electronics,2023.55,5,1922.37,1,1922.37,CUST85255,,27.0,Nagpur,Maharashtra,EMI,Delivered,2024-01-11,2024-01-13,2.0,4.6,
+ORD444625,FKPROD5327,Solimo Bedsheet,Home,734.7,10,661.23,1,661.23,CUST48085,Neha Desai,61.0,Pune,Maharashtra,Cash on Delivery,Delivered,2024-05-21,2024-05-22,1.0,1.0,Average quality
+ORD823415,FKPROD6857,Cello Plastic Chair,Home,8608.28,20,6886.62,1,6886.62,CUST58840,Sanjay Kulkarni,29.0,Pune,Maharashtra,Net Banking,Processing,2022-10-06,,,,Fast delivery
+ORD917012,FKPROD8835,Nike Gym Gloves,Sports,4389.88,10,3950.89,1,3950.89,CUST27368,Priya Sharma,28.0,Pune,Maharashtra,EMI,Delivered,2023-08-06,2023-08-17,11.0,,Fast delivery
+ORD802382,FKPROD6875,Data Science Handbook,Books,119.17,10,107.25,4,429.0,CUST73979,Sunita Rao,44.0,Mumbai,Maharashtra,UPI,Delivered,2022-11-18,2022-11-19,1.0,,Excellent!
+ORD112210,FKPROD6542,Royalford Frying Pan,Home,4850.0,5,4607.5,4,18430.0,CUST96732,Kavita Joshi,48.0,Surat,Gujarat,Cash on Delivery,Delivered,2022-06-02,2022-06-11,9.0,,Good product
+ORD182659,FKPROD3571,Borosil Glass Set,Home,7683.96,40,4610.38,2,9220.76,CUST19812,,38.0,Kolkata,West Bengal,Debit Card,Delivered,2022-08-17,2022-08-26,9.0,3.6,Excellent!
+ORD532368,FKPROD8521,Cello Plastic Chair,Home,7269.97,40,4361.98,1,4361.98,CUST75333,Kiran Kumar,38.0,Ahmedabad,Gujarat,Cash on Delivery,Returned,2022-04-16,,,,Fast delivery
+ORD965401,FKPROD1587,Rich Dad Poor Dad,Books,483.37,5,459.2,5,2296.0,CUST91142,Pooja Iyer,50.0,Hyderabad,Telangana,Cash on Delivery,Returned,2022-12-16,,,,Highly recommended
+ORD970196,FKPROD1889,Boldfit Resistance Bands,Sports,2461.31,40,1476.79,3,4430.37,CUST83420,,63.0,Indore,Madhya Pradesh,Net Banking,Delivered,2024-02-17,2024-02-28,11.0,1.9,Highly recommended
+ORD579247,FKPROD5783,Rich Dad Poor Dad,Books,464.39,5,441.17,1,441.17,CUST31516,,26.0,Delhi,Delhi,Debit Card,Delivered,2022-07-12,2022-07-14,2.0,4.7,Excellent!
+ORD104548,FKPROD4122,Himalaya Neem Toner,Beauty,943.14,30,660.2,1,660.2,CUST93000,Sunita Rao,46.0,Surat,Gujarat,EMI,Processing,2022-05-18,,,,
+ORD789461,FKPROD9689,Cosco Football,Sports,770.14,30,539.1,5,2695.5,CUST73298,Anjali Gupta,,Bengaluru,Karnataka,Cash on Delivery,Cancelled,2022-04-17,,,,Fast delivery
+ORD731792,FKPROD6273,Borosil Glass Set,Home,7967.1,30,5576.97,5,27884.85,CUST42537,Rahul Nair,43.0,Chennai,Tamil Nadu,Net Banking,Cancelled,2022-05-22,,,,Fast delivery
+ORD844858,FKPROD9393,Men Formal Shirt,Clothing,3402.68,50,1701.34,3,5104.02,CUST82559,Deepak Verma,30.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2022-12-20,2022-12-31,11.0,1.5,Highly recommended
+ORD155642,FKPROD2890,Yonex Badminton Racket,Sports,3715.71,40,2229.43,5,11147.15,CUST84794,Meera Pillai,61.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2022-01-14,2022-01-23,9.0,1.4,Average quality
+ORD746036,FKPROD1927,MacBook Air M2,Electronics,32403.9,10,29163.51,3,87490.53,CUST99573,Rahul Nair,27.0,Indore,Madhya Pradesh,Flipkart Pay Later,Delivered,2024-02-11,2024-02-20,9.0,,Value for money
+ORD113595,FKPROD4675,Cosco Football,Sports,6576.06,30,4603.24,2,9206.48,CUST76967,Pooja Iyer,62.0,Pune,Maharashtra,Net Banking,Delivered,2024-03-18,2024-03-29,11.0,,Good product
+ORD296059,FKPROD5117,MacBook Air M2,Electronics,74657.12,40,44794.27,2,89588.54,CUST93071,Neha Desai,55.0,Indore,Madhya Pradesh,EMI,Delivered,2024-01-13,2024-01-17,4.0,2.2,Value for money
+ORD261169,FKPROD3847,Cosco Football,Sports,5283.31,30,3698.32,1,3698.32,CUST66165,Rahul Nair,53.0,Bengaluru,Karnataka,Credit Card,Delivered,2022-09-19,2022-09-20,1.0,2.3,Good product
+ORD924451,FKPROD6285,Python Crash Course,Books,134.6,20,107.68,4,430.72,CUST85061,Neha Desai,22.0,Jaipur,Rajasthan,Credit Card,Processing,2023-06-18,,,,Value for money
+ORD688602,FKPROD9276,HP Pavilion x360,Electronics,50203.78,50,25101.89,4,100407.56,CUST22051,Neha Desai,32.0,Surat,Gujarat,Debit Card,Delivered,2022-10-28,2022-11-01,4.0,,
+ORD666479,FKPROD1144,JBL Flip 6,Electronics,80438.15,40,48262.89,2,96525.78,CUST94182,Kavita Joshi,20.0,Pune,Maharashtra,Flipkart Pay Later,Processing,2023-01-31,,,,Not as expected
+ORD757386,FKPROD5633,iPhone 14,Electronics,109404.64,25,82053.48,5,410267.4,CUST76680,Kiran Kumar,49.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2023-06-11,2023-06-13,2.0,4.8,Good product
+ORD124906,FKPROD2072,Mi Smart TV 43,Electronics,80605.05,15,68514.29,4,274057.16,CUST23621,Deepak Verma,52.0,Surat,Gujarat,Flipkart Pay Later,Processing,2024-02-04,,,,Average quality
+ORD506881,FKPROD8523,Himalaya Neem Toner,Beauty,928.53,5,882.1,1,882.1,CUST17113,Anjali Gupta,34.0,Delhi,Delhi,EMI,Cancelled,2022-09-22,,,,Fast delivery
+ORD627262,FKPROD8391,Clean Code,Books,382.11,25,286.58,1,286.58,CUST61052,Sunita Rao,52.0,Surat,Gujarat,Cash on Delivery,Delivered,2024-02-14,2024-02-26,12.0,3.3,Highly recommended
+ORD659381,FKPROD2738,Girls Frock,Clothing,3189.19,20,2551.35,5,12756.75,CUST21338,Pooja Iyer,46.0,Pune,Maharashtra,Flipkart Pay Later,Returned,2023-05-01,,,,Average quality
+ORD143802,FKPROD4602,Bose QuietComfort 45,Electronics,89737.09,50,44868.54,3,134605.62,CUST93105,Vikram Singh,37.0,Mumbai,Maharashtra,EMI,Shipped,2022-05-25,,,,Value for money
+ORD268772,FKPROD1082,The Alchemist,Books,516.66,50,258.33,5,1291.65,CUST21157,Pooja Iyer,31.0,Hyderabad,Telangana,Net Banking,Shipped,2024-05-21,,,,Average quality
+ORD775990,FKPROD4014,LG OLED 55,Electronics,74217.75,20,59374.2,2,118748.4,CUST25023,Anjali Gupta,,,,UPI,Shipped,2023-07-17,,,,
+ORD749609,FKPROD2198,Girls Frock,Clothing,2751.4,20,2201.12,1,2201.12,CUST35875,,39.0,Bengaluru,Karnataka,Cash on Delivery,Returned,2022-04-13,,,,Not as expected
+ORD428429,FKPROD2143,MacBook Air M2,Electronics,38475.42,40,23085.25,3,69255.75,CUST90785,Pooja Iyer,,Bengaluru,Karnataka,EMI,Delivered,2024-04-07,2024-04-13,6.0,4.8,Good product
+ORD776909,FKPROD5033,Adidas Running Shoes,Sports,2447.8,30,1713.46,3,5140.38,CUST57118,Vikram Singh,61.0,Ahmedabad,Gujarat,Net Banking,Delivered,2024-03-04,2024-03-09,5.0,2.9,Average quality
+ORD952117,FKPROD2343,Boys T-Shirt Pack,Clothing,3462.11,10,3115.9,5,15579.5,CUST35746,Rahul Nair,64.0,Indore,Madhya Pradesh,UPI,Shipped,2024-05-19,,,,Good product
+ORD587274,FKPROD7637,Nivia Cricket Bat,Sports,6022.35,0,6022.35,5,30111.75,CUST44159,,59.0,Kolkata,West Bengal,Net Banking,Delivered,2024-03-01,2024-03-11,10.0,3.9,Average quality
+ORD871667,FKPROD9210,Borosil Glass Set,Home,1086.82,25,815.12,5,4075.6,CUST11388,Kavita Joshi,57.0,Nagpur,Maharashtra,EMI,Delivered,2022-06-13,2022-06-16,3.0,,Average quality
+ORD141843,FKPROD8921,Women Saree,Clothing,352.6,40,211.56,2,423.12,CUST18239,Rahul Nair,41.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2024-03-21,2024-03-27,6.0,,Good product
+ORD641760,FKPROD6309,boAt Rockerz 450,Electronics,84596.48,50,42298.24,3,126894.72,CUST44513,Anjali Gupta,42.0,Kolkata,West Bengal,EMI,Returned,2024-05-05,,,,Value for money
+ORD561267,FKPROD5121,Men Chinos,Clothing,3895.16,15,3310.89,5,16554.45,CUST63194,Neha Desai,40.0,Nagpur,Maharashtra,Net Banking,Shipped,2022-01-07,,,,Average quality
+ORD534753,FKPROD3713,LG OLED 55,Electronics,9712.04,20,7769.63,2,15539.26,CUST29692,Anjali Gupta,28.0,Lucknow,Uttar Pradesh,Cash on Delivery,Cancelled,2023-11-08,,,,Excellent!
+ORD700067,FKPROD6410,WOW Vitamin C Serum,Beauty,415.35,40,249.21,4,996.84,CUST37617,Anjali Gupta,59.0,Mumbai,Maharashtra,Credit Card,Delivered,2023-08-11,2023-08-21,10.0,,Good product
+ORD933215,FKPROD3406,Redmi Note 12,Electronics,20377.79,10,18340.01,5,91700.05,CUST63143,Rohan Mehta,64.0,Delhi,Delhi,Credit Card,Delivered,2023-04-28,2023-05-06,8.0,1.7,Average quality
+ORD966662,FKPROD3979,Data Science Handbook,Books,560.75,20,448.6,2,897.2,CUST99861,Sanjay Kulkarni,,Lucknow,Uttar Pradesh,UPI,Delivered,2023-01-30,2023-02-02,3.0,1.4,Fast delivery
+ORD912510,FKPROD3450,Python Crash Course,Books,166.41,40,99.85,5,499.25,CUST88618,Priya Sharma,52.0,Nagpur,Maharashtra,UPI,Delivered,2023-11-07,2023-11-10,3.0,,Good product
+ORD546157,FKPROD8069,Royalford Frying Pan,Home,3958.95,0,3958.95,5,19794.75,CUST66224,Kavita Joshi,48.0,Kolkata,West Bengal,EMI,Cancelled,2024-02-19,,,,Value for money
+ORD645009,FKPROD3193,Women Kurti Set,Clothing,2012.14,15,1710.32,1,1710.32,CUST47128,Meera Pillai,34.0,Mumbai,Maharashtra,Cash on Delivery,Returned,2022-01-08,,,,Value for money
+ORD813666,FKPROD1117,Men Chinos,Clothing,2686.28,25,2014.71,4,8058.84,CUST57483,Sunita Rao,27.0,Surat,Gujarat,EMI,Delivered,2024-05-25,2024-06-03,9.0,2.7,Not as expected
+ORD996531,FKPROD7511,Yonex Badminton Racket,Sports,2274.83,50,1137.41,5,5687.05,CUST73238,Anjali Gupta,41.0,Jaipur,Rajasthan,Net Banking,Delivered,2022-11-11,2022-11-21,10.0,2.4,Average quality
+ORD508004,FKPROD2951,Cosco Football,Sports,2527.78,10,2275.0,1,2275.0,CUST38109,Arjun Reddy,39.0,Lucknow,Uttar Pradesh,Cash on Delivery,Returned,2022-02-23,,,,Average quality
+ORD846172,FKPROD1086,Nike Gym Gloves,Sports,1182.56,10,1064.3,4,4257.2,CUST88675,Meera Pillai,23.0,Chennai,Tamil Nadu,Credit Card,Delivered,2023-09-16,2023-09-17,1.0,3.9,Not as expected
+ORD806765,FKPROD1941,Nivia Cricket Bat,Sports,8255.22,40,4953.13,4,19812.52,CUST11403,Deepak Verma,60.0,Chennai,Tamil Nadu,Credit Card,Delivered,2023-09-06,2023-09-15,9.0,3.1,Average quality
+ORD676289,FKPROD1590,Kids Hoodie,CLOTHING,1108.18,0,1108.18,2,2216.36,CUST21382,Rahul Nair,43.0,Surat,Gujarat,Net Banking,Delivered,2022-07-25,2022-08-03,9.0,1.1,Value for money
+ORD627611,FKPROD5661,WOW Vitamin C Serum,Beauty,2098.95,25,1574.21,3,4722.63,CUST46242,Kavita Joshi,56.0,Ahmedabad,Gujarat,Net Banking,Delivered,2022-09-25,2022-09-28,3.0,2.6,Value for money
+ORD715332,FKPROD5821,Men Polo T-Shirt,Clothing,3797.66,50,1898.83,3,5696.49,CUST80504,Rahul Nair,62.0,Pune,Maharashtra,EMI,Delivered,2022-09-07,2022-09-13,6.0,,
+ORD401244,FKPROD1448,Amazon Basic Curtains,Home,1310.53,5,1245.0,4,4980.0,CUST93055,Kavita Joshi,61.0,Nagpur,Maharashtra,Debit Card,Delivered,2022-12-28,2023-01-06,9.0,3.1,Excellent!
+ORD882401,FKPROD2523,Prestige Pressure Cooker,Home,6160.17,25,4620.13,1,4620.13,CUST82686,Anjali Gupta,48.0,Kolkata,West Bengal,Credit Card,Shipped,2022-10-03,,,,Average quality
+ORD916776,FKPROD4115,Pigeon Gas Stove,Home,6711.88,15,5705.1,2,11410.2,CUST44787,Deepak Verma,32.0,,,Credit Card,Shipped,2022-12-31,,,,Average quality
+ORD901387,FKPROD2747,JBL Flip 6,Electronics,110462.48,40,66277.49,5,331387.45,CUST10868,Priya Sharma,48.0,Lucknow,Uttar Pradesh,Debit Card,Delivered,2024-06-21,2024-07-01,10.0,,Average quality
+ORD832162,FKPROD9374,Boys T-Shirt Pack,Clothing,1710.94,10,1539.85,1,1539.85,CUST78909,Meera Pillai,48.0,Mumbai,Maharashtra,EMI,Delivered,2024-05-31,2024-06-11,11.0,,Value for money
+ORD382495,FKPROD9490,Solimo Bedsheet,Home,3045.17,0,3045.17,1,3045.17,CUST98356,Deepak Verma,,Delhi,Delhi,Debit Card,Delivered,2024-06-01,2024-06-06,5.0,1.7,Excellent!
+ORD953740,FKPROD8722,Data Science Handbook,Books,339.17,10,305.25,4,1221.0,CUST65567,Deepak Verma,44.0,Kolkata,West Bengal,Flipkart Pay Later,Delivered,2023-04-07,2023-04-10,3.0,,Excellent!
+ORD990649,FKPROD2636,WOW Vitamin C Serum,Beauty,783.38,15,665.87,5,3329.35,CUST66651,Arjun Reddy,30.0,Nagpur,Maharashtra,Cash on Delivery,Delivered,2024-04-05,2024-04-06,1.0,,Average quality
+ORD880762,FKPROD9470,Atomic Habits,Books,603.39,40,362.03,3,1086.09,CUST42895,Priya Sharma,43.0,Indore,Madhya Pradesh,Credit Card,Delivered,2024-04-13,2024-04-18,5.0,2.9,
+ORD704875,FKPROD6483,Women Kurti Set,Clothing,1570.66,50,785.33,5,3926.65,CUST43779,Neha Desai,19.0,Delhi,Delhi,Debit Card,Shipped,2023-09-13,,,,Excellent!
+ORD542306,FKPROD9821,Lenovo IdeaPad,Electronics,117535.09,20,94028.07,3,282084.21,CUST52610,,65.0,Delhi,Delhi,Net Banking,Delivered,2023-04-20,2023-05-01,11.0,4.8,Highly recommended
+ORD534098,FKPROD7631,Realme 10 Pro,Electronics,9953.88,25,7465.41,2,14930.82,CUST51088,Sanjay Kulkarni,59.0,Indore,Madhya Pradesh,Debit Card,Delivered,2023-02-09,2023-02-14,5.0,4.6,
+ORD127645,FKPROD3741,Lenovo IdeaPad,Electronics,102578.32,10,92320.49,2,184640.98,CUST96772,Rahul Nair,65.0,Hyderabad,Telangana,Credit Card,Delivered,2022-04-08,2022-04-10,2.0,,Good product
+ORD129959,FKPROD7504,Royalford Frying Pan,Home,6954.47,5,6606.75,1,6606.75,CUST44400,Vikram Singh,23.0,Chennai,Tamil Nadu,Credit Card,Delivered,2022-10-18,2022-10-26,8.0,3.5,Average quality
+ORD648887,FKPROD1575,Nivea Body Lotion,Beauty,987.58,25,740.69,4,2962.76,CUST71235,Rahul Nair,53.0,Bengaluru,Karnataka,Cash on Delivery,Delivered,2023-08-29,2023-09-08,10.0,,Fast delivery
+ORD400692,FKPROD9745,Men Formal Shirt,Clothing,3652.91,40,2191.75,5,10958.75,CUST39770,Amit Patel,46.0,Kolkata,West Bengal,Net Banking,Delivered,2022-11-07,2022-11-08,1.0,1.0,Highly recommended
+ORD297731,FKPROD8687,Atomic Habits,Books,104.82,40,62.89,4,251.56,CUST49270,Rohan Mehta,45.0,Lucknow,Uttar Pradesh,Credit Card,Cancelled,2023-07-16,,,,Highly recommended
+ORD398505,FKPROD7745,Rich Dad Poor Dad,Books,404.97,15,344.22,2,688.44,CUST94671,Arjun Reddy,42.0,Chennai,Tamil Nadu,UPI,Delivered,2022-09-03,2022-09-12,9.0,,Not as expected
+ORD120337,FKPROD9715,Nike Gym Gloves,Sports,2906.57,15,2470.58,1,2470.58,CUST33908,Vikram Singh,36.0,Surat,Gujarat,Net Banking,Delivered,2022-10-06,2022-10-18,12.0,3.5,Highly recommended
+ORD258003,FKPROD3492,Redmi Note 12,Electronics,116381.09,0,116381.09,2,232762.18,CUST23405,Pooja Iyer,35.0,Indore,Madhya Pradesh,Net Banking,Returned,2022-08-27,,,,Value for money
+ORD379449,FKPROD1241,Pigeon Gas Stove,Home,2188.54,30,1531.98,3,4595.94,CUST75325,Neha Desai,47.0,Kolkata,West Bengal,UPI,Shipped,2022-05-30,,,,Good product
+ORD583220,FKPROD7429,Realme 10 Pro,Electronics,65411.44,10,58870.3,2,117740.6,CUST42778,Arjun Reddy,18.0,Nagpur,Maharashtra,Cash on Delivery,Delivered,2024-02-29,2024-03-08,8.0,2.0,Excellent!
+ORD308376,FKPROD2539,Royalford Frying Pan,Home,6093.27,15,5179.28,4,20717.12,CUST61003,Pooja Iyer,38.0,Surat,Gujarat,Cash on Delivery,Delivered,2023-07-17,2023-07-26,9.0,,Not as expected
+ORD709303,FKPROD6905,Redmi Note 12,Electronics,103707.09,15,88151.03,1,88151.03,CUST40928,Meera Pillai,38.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2022-05-03,2022-05-10,7.0,4.2,Good product
+ORD835395,FKPROD8786,Biotique Face Wash,Beauty,1550.1,25,1162.57,1,1162.57,CUST42600,Anjali Gupta,49.0,Surat,Gujarat,EMI,Delivered,2024-02-17,2024-02-28,11.0,1.2,Average quality
+ORD840951,FKPROD9787,Adidas Running Shoes,Sports,1340.7,40,804.42,2,1608.84,CUST51515,Neha Desai,46.0,Mumbai,Maharashtra,Cash on Delivery,Delivered,2024-01-12,2024-01-15,3.0,2.0,
+ORD172222,FKPROD8168,Rich Dad Poor Dad,Books,305.3,40,183.18,2,366.36,CUST84278,Anjali Gupta,52.0,Kolkata,West Bengal,Cash on Delivery,Delivered,2024-06-07,2024-06-17,10.0,,Average quality
+ORD436272,FKPROD9702,Dell Inspiron 15,Electronics,54201.41,20,43361.13,5,216805.65,CUST58118,Kiran Kumar,18.0,Pune,Maharashtra,Cash on Delivery,Delivered,2022-01-20,2022-01-30,10.0,,Excellent!
+ORD145903,FKPROD2037,Nivea Body Lotion,Beauty,2421.83,30,1695.28,2,3390.56,CUST78690,,53.0,Lucknow,Uttar Pradesh,Debit Card,Delivered,2023-10-19,2023-10-25,6.0,,Value for money
+ORD651363,FKPROD3126,Lenovo IdeaPad,Electronics,104882.39,15,89150.03,1,89150.03,CUST73618,Deepak Verma,24.0,Lucknow,Uttar Pradesh,Cash on Delivery,Shipped,2023-11-05,,,,
+ORD932831,FKPROD5193,Redmi Note 12,Electronics,44279.31,5,42065.34,1,42065.34,CUST37359,,23.0,Nagpur,Maharashtra,Cash on Delivery,Delivered,2023-07-26,2023-08-07,12.0,4.8,Highly recommended
+ORD697717,FKPROD1955,Boldfit Resistance Bands,Sports,6283.25,50,3141.62,1,3141.62,CUST19225,Pooja Iyer,22.0,Jaipur,Rajasthan,UPI,Delivered,2022-08-25,2022-09-03,9.0,2.5,Excellent!
+ORD629208,FKPROD3931,Rich Dad Poor Dad,Books,623.44,30,436.41,1,436.41,CUST93705,Neha Desai,61.0,Indore,Madhya Pradesh,Cash on Delivery,Delivered,2022-04-17,2022-04-20,3.0,,Fast delivery
+ORD493282,FKPROD6529,Nivea Body Lotion,Beauty,520.71,40,312.43,3,937.29,CUST51307,Sanjay Kulkarni,41.0,Nagpur,Maharashtra,Cash on Delivery,Delivered,2024-01-14,2024-01-20,6.0,,Excellent!
+ORD997287,FKPROD5162,Kids Hoodie,Clothing,3853.28,40,2311.97,4,9247.88,CUST10025,Priya Sharma,,Mumbai,Maharashtra,EMI,Delivered,2024-06-30,2024-07-05,5.0,1.0,Excellent!
+ORD368691,FKPROD6159,iPhone 14,Electronics,92697.01,20,74157.61,5,370788.05,CUST77013,Vikram Singh,24.0,Ahmedabad,Gujarat,Debit Card,Delivered,2022-09-29,2022-10-05,6.0,4.6,Excellent!
+ORD724145,FKPROD5920,Sony WH-1000XM5,Electronics,68673.22,15,58372.24,1,58372.24,CUST52558,,29.0,,,Cash on Delivery,Returned,2024-04-19,,,,Value for money
+ORD764678,FKPROD5921,OnePlus 11,Electronics,87829.33,30,61480.53,1,61480.53,CUST17329,Sanjay Kulkarni,40.0,Pune,Maharashtra,Flipkart Pay Later,Delivered,2024-02-28,2024-03-03,4.0,,Good product
+ORD332873,FKPROD7266,Redmi Note 12,Electronics,36921.62,0,36921.62,3,110764.86,CUST80769,Vikram Singh,38.0,Indore,Madhya Pradesh,Credit Card,Delivered,2023-11-21,2023-12-03,12.0,,Value for money
+ORD899049,FKPROD8076,Girls Frock,Clothing,3187.2,10,2868.48,2,5736.96,CUST54062,Amit Patel,,Indore,Madhya Pradesh,UPI,Delivered,2022-09-26,2022-09-28,2.0,2.6,Average quality
+ORD217996,FKPROD3209,Amazon Basic Curtains,Home,5164.88,40,3098.93,4,12395.72,CUST95491,Deepak Verma,,Indore,Madhya Pradesh,EMI,Delivered,2022-03-15,2022-03-20,5.0,4.1,Value for money
+ORD753453,FKPROD7776,Milton Water Bottle,Home,3476.83,15,2955.31,3,8865.93,CUST55157,Rohan Mehta,37.0,Kolkata,West Bengal,EMI,Cancelled,2024-04-02,,,,
+ORD459946,FKPROD3389,Cello Plastic Chair,Home,689.43,15,586.02,2,1172.04,CUST99831,Neha Desai,27.0,Delhi,Delhi,Cash on Delivery,Delivered,2023-09-28,2023-10-01,3.0,4.5,Good product
+ORD494900,FKPROD2823,Men Formal Shirt,Clothing,1909.23,0,1909.23,3,5727.69,CUST37395,Deepak Verma,31.0,Jaipur,Rajasthan,Flipkart Pay Later,Delivered,2023-05-10,2023-05-20,10.0,3.9,Good product
+ORD120005,FKPROD9631,OnePlus 11,Electronics,31027.03,0,31027.03,3,93081.09,CUST36305,Rahul Nair,21.0,Surat,Gujarat,UPI,Delivered,2023-11-08,2023-11-13,5.0,3.7,Value for money
+ORD359409,FKPROD5792,Lakme Foundation,Beauty,1057.33,30,740.13,5,3700.65,CUST23055,Sanjay Kulkarni,,Jaipur,Rajasthan,UPI,Delivered,2023-05-28,2023-06-05,8.0,3.2,Good product
+ORD954441,FKPROD9673,Men Formal Shirt,Clothing,1466.56,30,1026.59,2,2053.18,CUST12408,Neha Desai,61.0,Kolkata,West Bengal,Cash on Delivery,Delivered,2023-05-29,2023-06-03,5.0,4.2,Fast delivery
+ORD352036,FKPROD1482,Rich Dad Poor Dad,Books,763.38,15,648.87,2,1297.74,CUST54798,Arjun Reddy,60.0,Delhi,Delhi,Cash on Delivery,Delivered,2023-11-26,2023-12-06,10.0,4.5,Fast delivery
+ORD424008,FKPROD3502,Milton Water Bottle,Home,8742.67,25,6557.0,4,26228.0,CUST81071,Vikram Singh,31.0,Lucknow,Uttar Pradesh,EMI,Returned,2022-07-27,,,,Average quality
+ORD531228,FKPROD9582,Bose QuietComfort 45,Electronics,51892.68,10,46703.41,5,233517.05,CUST30715,Sanjay Kulkarni,22.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2022-11-22,2022-11-25,3.0,3.9,Fast delivery
+ORD735022,FKPROD5970,Cello Plastic Chair,Home,6785.8,20,5428.64,2,10857.28,CUST34632,Sunita Rao,26.0,Mumbai,Maharashtra,Flipkart Pay Later,Processing,2023-09-24,,,,Not as expected
+ORD596864,FKPROD4783,Python Crash Course,Books,261.53,0,261.53,3,784.59,CUST20417,,26.0,,,EMI,Delivered,2023-10-28,2023-11-03,6.0,1.7,
+ORD169348,FKPROD3253,HP Pavilion x360,Electronics,23594.55,0,23594.55,4,94378.2,CUST11967,Rahul Nair,44.0,Indore,Madhya Pradesh,Cash on Delivery,Processing,2024-02-15,,,,Excellent!
+ORD645940,FKPROD3901,Cello Plastic Chair,Home,7843.02,40,4705.81,3,14117.43,CUST69971,Kavita Joshi,45.0,Nagpur,Maharashtra,UPI,Delivered,2024-04-24,2024-05-01,7.0,3.9,Good product
+ORD419348,FKPROD2791,Cello Plastic Chair,Home,4274.03,0,4274.03,2,8548.06,CUST77987,Arjun Reddy,65.0,Jaipur,Rajasthan,Net Banking,Delivered,2023-10-08,2023-10-09,1.0,,Fast delivery
+ORD512160,FKPROD5684,Solimo Bedsheet,Home,1747.43,20,1397.94,5,6989.7,CUST17149,Vikram Singh,47.0,Delhi,Delhi,Cash on Delivery,Delivered,2022-07-04,2022-07-14,10.0,,Average quality
+ORD853270,FKPROD7775,Women Leggings,Clothing,1912.37,10,1721.13,4,6884.52,CUST87373,Deepak Verma,47.0,Chennai,Tamil Nadu,Debit Card,Returned,2023-12-30,,,,Average quality
+ORD269999,FKPROD3024,Sony WH-1000XM5,ELECTRONICS,14142.71,40,8485.63,3,25456.89,CUST21181,Arjun Reddy,64.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,2023-01-25,2023-01-26,1.0,4.1,Average quality
+ORD580921,FKPROD3369,Lenovo IdeaPad,Electronics,92414.24,0,92414.24,4,369656.96,CUST50378,Pooja Iyer,64.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2022-05-15,2022-05-19,4.0,1.0,Good product
+ORD673929,FKPROD9153,Pigeon Gas Stove,Home,5027.46,0,5027.46,5,25137.3,CUST74679,Kavita Joshi,,Surat,Gujarat,Net Banking,Delivered,2023-03-29,2023-03-31,2.0,3.4,Excellent!
+ORD447195,FKPROD5556,Data Science Handbook,Books,539.04,15,458.18,1,458.18,CUST34227,Vikram Singh,21.0,Mumbai,Maharashtra,Credit Card,Shipped,2023-11-15,,,,Not as expected
+ORD905843,FKPROD2436,Redmi Note 12,Electronics,13512.07,10,12160.86,2,24321.72,CUST98092,Pooja Iyer,,Lucknow,Uttar Pradesh,Flipkart Pay Later,Delivered,2023-04-12,2023-04-24,12.0,3.3,Value for money
+ORD652654,FKPROD5903,Women Leggings,Clothing,1599.56,30,1119.69,1,1119.69,CUST66010,Amit Patel,36.0,Bengaluru,Karnataka,UPI,Returned,2022-10-09,,,,Highly recommended
+ORD547798,FKPROD7779,Royalford Frying Pan,Home,2124.65,15,1805.95,5,9029.75,CUST17626,Sunita Rao,54.0,Delhi,Delhi,Net Banking,Returned,2023-09-12,,,,Not as expected
+ORD223949,FKPROD6185,Women Kurti Set,Clothing,2195.49,25,1646.62,2,3293.24,CUST90516,,51.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-09-17,2023-09-21,4.0,3.8,Good product
+ORD366776,FKPROD1392,Solimo Bedsheet,Home,5740.51,5,5453.48,2,10906.96,CUST90649,Meera Pillai,44.0,Kolkata,West Bengal,Debit Card,Delivered,2023-10-15,2023-10-19,4.0,1.0,Not as expected
+ORD972460,FKPROD2111,Men Formal Shirt,Clothing,1340.08,50,670.04,3,2010.12,CUST10803,Sunita Rao,61.0,Kolkata,West Bengal,Net Banking,Returned,2023-09-23,,,,Good product
+ORD878656,FKPROD3877,MacBook Air M2,Electronics,39996.52,25,29997.39,4,119989.56,CUST72193,Priya Sharma,59.0,Ahmedabad,Gujarat,Credit Card,Delivered,2024-06-04,2024-06-13,9.0,,Fast delivery
+ORD169429,FKPROD1917,Royalford Frying Pan,Home,2903.29,25,2177.47,5,10887.35,CUST80239,Rohan Mehta,,Surat,Gujarat,Debit Card,Cancelled,2024-06-28,,,,Highly recommended
+ORD384685,FKPROD3446,Boys T-Shirt Pack,Clothing,3393.81,25,2545.36,4,10181.44,CUST92118,Anjali Gupta,,Pune,Maharashtra,Credit Card,Delivered,2024-06-04,2024-06-09,5.0,3.8,Good product
+ORD630573,FKPROD7780,Sony WH-1000XM5,ELECTRONICS,59898.0,15,50913.3,3,152739.9,CUST69232,Pooja Iyer,31.0,Chennai,Tamil Nadu,Credit Card,Delivered,2024-03-14,2024-03-15,1.0,4.1,
+ORD315154,FKPROD1408,Nike Gym Gloves,Sports,4980.83,50,2490.41,2,4980.82,CUST34931,Sanjay Kulkarni,48.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2024-02-27,2024-02-29,2.0,,Average quality
+ORD705615,FKPROD1598,Solimo Bedsheet,Home,3671.02,50,1835.51,1,1835.51,CUST10538,Pooja Iyer,,,,UPI,Delivered,2024-06-29,2024-06-30,1.0,1.4,Good product
+ORD115997,FKPROD6114,Clean Code,Books,723.49,25,542.62,2,1085.24,CUST35237,Pooja Iyer,35.0,Kolkata,West Bengal,Flipkart Pay Later,Delivered,2022-05-01,2022-05-06,5.0,1.6,Value for money
+ORD153190,FKPROD9422,boAt Rockerz 450,Electronics,25186.0,25,18889.5,5,94447.5,CUST51744,Rahul Nair,27.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,2022-11-15,2022-11-25,10.0,,
+ORD746253,FKPROD3131,iPhone 14,Electronics,56752.9,0,56752.9,1,56752.9,CUST60279,Priya Sharma,23.0,Pune,Maharashtra,Credit Card,Returned,2023-08-30,,,,
+ORD201987,FKPROD6826,Men Formal Shirt,Clothing,1461.86,15,1242.58,5,6212.9,CUST20295,Kiran Kumar,54.0,Delhi,Delhi,Flipkart Pay Later,Cancelled,2023-12-17,,,,
+ORD611187,FKPROD8464,Men Formal Shirt,Clothing,2800.02,40,1680.01,4,6720.04,CUST40368,Kavita Joshi,,Chennai,Tamil Nadu,Debit Card,Delivered,2023-12-18,2023-12-29,11.0,2.3,
+ORD683165,FKPROD1495,Realme 10 Pro,Electronics,57302.46,25,42976.85,4,171907.4,CUST70455,Anjali Gupta,36.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-04-16,2022-04-23,7.0,4.3,Highly recommended
+ORD922412,FKPROD2162,Adidas Running Shoes,Sports,3229.55,40,1937.73,4,7750.92,CUST87402,Meera Pillai,,Hyderabad,Telangana,EMI,Delivered,2023-05-09,2023-05-16,7.0,1.3,Fast delivery
+ORD284731,FKPROD8132,The Alchemist,Books,650.13,50,325.06,2,650.12,CUST32686,Amit Patel,,,,Net Banking,Delivered,2023-09-03,2023-09-11,8.0,2.3,
+ORD893853,FKPROD6046,Prestige Pressure Cooker,Home,904.59,5,859.36,5,4296.8,CUST59664,Sanjay Kulkarni,49.0,Delhi,Delhi,Credit Card,Cancelled,2024-06-27,,,,Good product
+ORD193624,FKPROD3403,Nivea Body Lotion,Beauty,499.66,50,249.83,3,749.49,CUST61115,Kiran Kumar,30.0,Surat,Gujarat,Debit Card,Delivered,2024-03-24,2024-04-04,11.0,2.2,Highly recommended
+ORD215027,FKPROD1133,Data Science Handbook,Books,789.5,30,552.65,2,1105.3,CUST48559,Priya Sharma,41.0,Mumbai,Maharashtra,UPI,Returned,2024-04-20,,,,Highly recommended
+ORD297370,FKPROD5623,iPhone 14,Electronics,28611.32,30,20027.92,3,60083.76,CUST60173,Arjun Reddy,42.0,Jaipur,Rajasthan,Credit Card,Returned,2023-05-02,,,,Average quality
+ORD243885,FKPROD7301,Kids Hoodie,Clothing,3390.86,10,3051.77,3,9155.31,CUST97826,Vikram Singh,26.0,Delhi,Delhi,Cash on Delivery,Delivered,2024-01-09,2024-01-17,8.0,3.6,Value for money
+ORD706012,FKPROD7813,Solimo Bedsheet,Home,8073.17,30,5651.22,5,28256.1,CUST33566,Kiran Kumar,50.0,Jaipur,Rajasthan,Flipkart Pay Later,Delivered,2022-12-30,2023-01-03,4.0,,Good product
+ORD824038,FKPROD9161,WOW Vitamin C Serum,Beauty,705.36,50,352.68,3,1058.04,CUST63849,Neha Desai,20.0,Lucknow,Uttar Pradesh,Net Banking,Returned,2022-04-26,,,,
+ORD742818,FKPROD2311,Dell Inspiron 15,Electronics,87757.16,50,43878.58,3,131635.74,CUST70940,Amit Patel,,Delhi,Delhi,Credit Card,Delivered,2024-01-30,2024-02-10,11.0,4.8,Not as expected
+ORD403257,FKPROD1864,Men Polo T-Shirt,Clothing,2232.13,0,2232.13,4,8928.52,CUST69511,,54.0,Pune,Maharashtra,Debit Card,Processing,2024-03-28,,,,Not as expected
+ORD400748,FKPROD3744,OnePlus 11,Electronics,83558.61,20,66846.89,5,334234.45,CUST44136,Priya Sharma,58.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,2023-11-04,2023-11-09,5.0,,Good product
+ORD791174,FKPROD8942,Sony WH-1000XM5,Electronics,15655.15,5,14872.39,3,44617.17,CUST43036,Vikram Singh,57.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2024-01-30,2024-02-01,2.0,,Average quality
+ORD978302,FKPROD8317,Kids Hoodie,Clothing,3268.79,20,2615.03,2,5230.06,CUST73559,Anjali Gupta,51.0,Kolkata,West Bengal,UPI,Processing,2023-09-02,,,,Average quality
+ORD773459,FKPROD9125,Yonex Badminton Racket,Sports,9936.78,30,6955.75,2,13911.5,CUST96594,Kiran Kumar,64.0,Hyderabad,Telangana,EMI,Returned,2022-12-20,,,,Good product
+ORD498249,FKPROD5331,Yonex Badminton Racket,Sports,8248.45,0,8248.45,2,16496.9,CUST70819,Arjun Reddy,48.0,Ahmedabad,Gujarat,Cash on Delivery,Processing,2023-06-30,,,,Excellent!
+ORD202093,FKPROD7390,Amazon Basic Curtains,Home,2583.84,50,1291.92,4,5167.68,CUST11554,Pooja Iyer,46.0,Surat,Gujarat,Debit Card,Processing,2023-12-01,,,,Good product
+ORD645209,FKPROD9704,Clean Code,Books,346.68,30,242.68,5,1213.4,CUST95467,Rahul Nair,39.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2023-11-02,2023-11-12,10.0,2.6,Excellent!
+ORD330074,FKPROD6528,Mamaearth Shampoo,Beauty,1771.15,10,1594.04,3,4782.12,CUST81776,Rohan Mehta,61.0,,,UPI,Delivered,2022-04-11,2022-04-20,9.0,,Highly recommended
+ORD788279,FKPROD5641,Women Kurti Set,Clothing,932.7,0,932.7,5,4663.5,CUST22050,Priya Sharma,56.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2022-05-03,2022-05-05,2.0,4.4,Fast delivery
+ORD914854,FKPROD4027,JBL Flip 6,Electronics,83630.61,20,66904.49,3,200713.47,CUST71204,Amit Patel,58.0,Chennai,Tamil Nadu,Flipkart Pay Later,Delivered,2023-11-15,2023-11-21,6.0,2.0,Not as expected
+ORD328994,FKPROD2022,Men Chinos,Clothing,1675.64,0,1675.64,3,5026.92,CUST44690,Anjali Gupta,46.0,Ahmedabad,Gujarat,Credit Card,Delivered,2022-07-02,2022-07-13,11.0,3.0,Fast delivery
+ORD796889,FKPROD2740,Cello Plastic Chair,Home,6522.98,5,6196.83,1,6196.83,CUST19557,Amit Patel,54.0,Nagpur,Maharashtra,Net Banking,Delivered,2023-05-25,2023-05-28,3.0,3.6,Good product
+ORD822742,FKPROD7397,Boys T-Shirt Pack,Clothing,775.11,25,581.33,4,2325.32,CUST85319,Rohan Mehta,50.0,Ahmedabad,Gujarat,Net Banking,Delivered,2024-01-16,2024-01-18,2.0,3.2,Fast delivery
+ORD779259,FKPROD8898,JBL Flip 6,Electronics,68285.64,25,51214.23,3,153642.69,CUST99369,Pooja Iyer,43.0,Surat,Gujarat,Cash on Delivery,Delivered,2023-07-02,2023-07-08,6.0,,Not as expected
+ORD246740,FKPROD4327,Lenovo IdeaPad,Electronics,66759.82,30,46731.87,2,93463.74,CUST49173,Arjun Reddy,24.0,Ahmedabad,Gujarat,UPI,Shipped,2023-03-25,,,,Excellent!
+ORD117215,FKPROD1584,MacBook Air M2,Electronics,3531.07,15,3001.41,4,12005.64,CUST60956,Amit Patel,52.0,Ahmedabad,Gujarat,EMI,Processing,2024-04-11,,,,
+ORD877048,FKPROD1606,Men Polo T-Shirt,Clothing,412.01,0,412.01,4,1648.04,CUST25491,Deepak Verma,59.0,Ahmedabad,Gujarat,Cash on Delivery,Shipped,2023-07-04,,,,Average quality
+ORD280616,FKPROD4817,Realme 10 Pro,Electronics,4906.88,10,4416.19,4,17664.76,CUST95699,Rohan Mehta,,Mumbai,Maharashtra,Credit Card,Returned,2022-05-14,,,,Good product
+ORD943530,FKPROD1818,Men Formal Shirt,Clothing,3317.81,5,3151.92,4,12607.68,CUST90114,Anjali Gupta,55.0,,,Flipkart Pay Later,Delivered,2023-05-25,2023-06-04,10.0,4.2,Value for money
+ORD276214,FKPROD4320,Milton Water Bottle,Home,3233.89,30,2263.72,3,6791.16,CUST25833,Vikram Singh,38.0,Nagpur,Maharashtra,UPI,Delivered,2022-12-10,2022-12-12,2.0,1.5,Fast delivery
+ORD193471,FKPROD7060,Rich Dad Poor Dad,Books,214.5,15,182.32,5,911.6,CUST15334,Vikram Singh,,Pune,Maharashtra,Flipkart Pay Later,Delivered,2024-06-19,2024-06-27,8.0,1.3,Average quality
+ORD852037,FKPROD5648,Philips Air Fryer,Home,6332.48,40,3799.49,2,7598.98,CUST37021,Vikram Singh,58.0,Jaipur,Rajasthan,Net Banking,Delivered,2022-06-28,2022-07-08,10.0,,Average quality
+ORD898100,FKPROD9190,Data Science Handbook,Books,764.21,20,611.37,3,1834.11,CUST64891,Rohan Mehta,53.0,Hyderabad,Telangana,UPI,Processing,2022-04-08,,,,Highly recommended
+ORD284888,FKPROD9842,Borosil Glass Set,Home,2206.7,15,1875.69,3,5627.07,CUST16955,Deepak Verma,25.0,Surat,Gujarat,Flipkart Pay Later,Processing,2023-05-01,,,,
+ORD145421,FKPROD3617,Nivea Body Lotion,Beauty,2317.28,0,2317.28,3,6951.84,CUST47363,Deepak Verma,45.0,Kolkata,West Bengal,EMI,Cancelled,2024-02-16,,,,
+ORD721497,FKPROD2710,Cosco Football,Sports,807.83,50,403.92,2,807.84,CUST30715,Rohan Mehta,49.0,Delhi,Delhi,UPI,Shipped,2024-01-09,,,,
+ORD713513,FKPROD6340,Philips Air Fryer,Home,2028.14,25,1521.11,2,3042.22,CUST24435,Sanjay Kulkarni,32.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2022-07-24,2022-07-31,7.0,4.6,
+ORD452207,FKPROD8936,Redmi Note 12,Electronics,106913.42,10,96222.08,2,192444.16,CUST89879,Kiran Kumar,29.0,Kolkata,West Bengal,Credit Card,Delivered,2022-07-18,2022-07-29,11.0,2.4,Excellent!
+ORD732958,FKPROD3084,OnePlus 11,Electronics,83219.16,0,83219.16,3,249657.48,CUST27891,Sunita Rao,47.0,Pune,Maharashtra,Credit Card,Cancelled,2022-08-14,,,,Not as expected
+ORD115208,FKPROD3568,Adidas Running Shoes,Sports,8006.28,10,7205.65,5,36028.25,CUST82450,Kavita Joshi,23.0,,,EMI,Delivered,2022-08-10,2022-08-20,10.0,,Not as expected
+ORD546376,FKPROD8014,Cosco Football,Sports,8763.21,15,7448.73,3,22346.19,CUST66917,Kavita Joshi,55.0,Lucknow,Uttar Pradesh,UPI,Delivered,2022-02-15,2022-02-16,1.0,,Good product
+ORD239158,FKPROD9701,Prestige Pressure Cooker,Home,4468.64,5,4245.21,4,16980.84,CUST74918,Kavita Joshi,23.0,Nagpur,Maharashtra,UPI,Returned,2023-02-21,,,,Excellent!
+ORD586288,FKPROD6872,Girls Frock,Clothing,1107.44,5,1052.07,1,1052.07,CUST72886,Pooja Iyer,28.0,,,EMI,Returned,2022-01-25,,,,
+ORD925954,FKPROD3271,Himalaya Neem Toner,Beauty,1101.6,25,826.2,4,3304.8,CUST93021,Rohan Mehta,58.0,Pune,Maharashtra,Cash on Delivery,Delivered,2022-02-03,2022-02-08,5.0,2.7,Excellent!
+ORD687997,FKPROD2326,Data Science Handbook,BOOKS,715.59,0,715.59,5,3577.95,CUST98428,Neha Desai,21.0,Pune,Maharashtra,Debit Card,Delivered,2022-02-11,2022-02-17,6.0,,Value for money
+ORD390607,FKPROD4354,Bose QuietComfort 45,Electronics,117759.57,15,100095.63,5,500478.15,CUST24884,,,,,Cash on Delivery,Delivered,2024-02-02,2024-02-06,4.0,2.3,Fast delivery
+ORD580115,FKPROD1892,Realme 10 Pro,Electronics,45051.25,40,27030.75,4,108123.0,CUST75726,Sunita Rao,48.0,Surat,Gujarat,Flipkart Pay Later,Delivered,2022-10-27,2022-11-04,8.0,3.5,Excellent!
+ORD536770,FKPROD2430,Sony WH-1000XM5,Electronics,47186.56,10,42467.9,3,127403.7,CUST20085,Sunita Rao,28.0,Delhi,Delhi,Cash on Delivery,Delivered,2022-06-04,2022-06-08,4.0,3.1,Not as expected
+ORD531690,FKPROD9870,Bose QuietComfort 45,Electronics,57131.64,30,39992.15,4,159968.6,CUST94500,Rohan Mehta,36.0,Delhi,Delhi,UPI,Shipped,2022-08-26,,,,Highly recommended
+ORD927607,FKPROD6616,Lakme Foundation,Beauty,1667.22,25,1250.41,4,5001.64,CUST87772,Kiran Kumar,47.0,Lucknow,Uttar Pradesh,Credit Card,Shipped,2022-11-10,,,,Average quality
+ORD291134,FKPROD5259,LG OLED 55,Electronics,58367.05,20,46693.64,1,46693.64,CUST29443,Neha Desai,36.0,Bengaluru,Karnataka,EMI,Shipped,2023-12-30,,,,Not as expected
+ORD460549,FKPROD3873,Himalaya Neem Toner,Beauty,1777.22,10,1599.5,2,3199.0,CUST41182,Sunita Rao,20.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,2023-01-14,2023-01-17,3.0,1.8,Highly recommended
+ORD778684,FKPROD3423,Kids Hoodie,Clothing,1903.03,10,1712.73,5,8563.65,CUST49526,Sunita Rao,19.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-04-15,2023-04-21,6.0,,Highly recommended
+ORD423047,FKPROD5842,Amazon Basic Curtains,Home,8094.0,10,7284.6,5,36423.0,CUST67947,Sanjay Kulkarni,62.0,Indore,Madhya Pradesh,Net Banking,Shipped,2022-05-23,,,,Value for money
+ORD123643,FKPROD1406,Prestige Pressure Cooker,Home,5671.44,15,4820.72,4,19282.88,CUST56844,Amit Patel,38.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2023-06-24,2023-06-28,4.0,4.1,Excellent!
+ORD487585,FKPROD2369,Atomic Habits,Books,693.62,5,658.94,5,3294.7,CUST61697,Deepak Verma,49.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-02-27,2022-03-10,11.0,2.4,Fast delivery
+ORD942725,FKPROD7326,Kids Hoodie,Clothing,245.33,25,184.0,3,552.0,CUST50381,Kiran Kumar,53.0,Hyderabad,Telangana,Cash on Delivery,Shipped,2024-01-30,,,,Fast delivery
+ORD169327,FKPROD8249,Girls Frock,Clothing,821.4,30,574.98,4,2299.92,CUST28293,Amit Patel,27.0,Chennai,Tamil Nadu,Net Banking,Processing,2023-06-22,,,,Highly recommended
+ORD962767,FKPROD7156,Sony WH-1000XM5,Electronics,1290.95,20,1032.76,4,4131.04,CUST32923,Kiran Kumar,,Nagpur,Maharashtra,Credit Card,Delivered,2024-05-02,2024-05-09,7.0,,Good product
+ORD230208,FKPROD5947,Wings of Fire,Books,311.74,50,155.87,4,623.48,CUST39428,Rohan Mehta,18.0,Chennai,Tamil Nadu,Debit Card,Processing,2024-05-04,,,,
+ORD827968,FKPROD5713,Philips Air Fryer,Home,1859.54,15,1580.61,1,1580.61,CUST25644,Rahul Nair,49.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2023-05-08,2023-05-18,10.0,2.7,
+ORD151081,FKPROD2959,Kids Hoodie,CLOTHING,2146.6,0,2146.6,3,6439.8,CUST31344,Priya Sharma,27.0,Ahmedabad,Gujarat,Cash on Delivery,Delivered,2022-06-17,2022-06-18,1.0,2.1,Highly recommended
+ORD818739,FKPROD5749,Girls Frock,Clothing,2211.53,5,2100.95,5,10504.75,CUST35403,Anjali Gupta,,Nagpur,Maharashtra,Credit Card,Delivered,2024-06-12,2024-06-18,6.0,4.3,Not as expected
+ORD971968,FKPROD6939,boAt Rockerz 450,Electronics,64363.23,25,48272.42,2,96544.84,CUST11690,Vikram Singh,51.0,Kolkata,West Bengal,Flipkart Pay Later,Delivered,2022-12-15,2022-12-18,3.0,1.4,Excellent!
+ORD465124,FKPROD4087,Adidas Running Shoes,Sports,9000.45,50,4500.23,5,22501.15,CUST82235,Sunita Rao,44.0,Delhi,Delhi,UPI,Cancelled,2022-01-18,,,,
+ORD998435,FKPROD6104,Biotique Face Wash,Beauty,1001.04,40,600.62,5,3003.1,CUST78566,Sanjay Kulkarni,29.0,Mumbai,Maharashtra,Cash on Delivery,Cancelled,2022-08-16,,,,Average quality
+ORD144582,FKPROD3332,Biotique Face Wash,Beauty,681.45,10,613.31,2,1226.62,CUST27067,Amit Patel,45.0,Delhi,Delhi,UPI,Cancelled,2024-02-15,,,,Fast delivery
+ORD716146,FKPROD4217,boAt Rockerz 450,Electronics,4418.73,50,2209.36,5,11046.8,CUST17768,,25.0,Mumbai,Maharashtra,UPI,Delivered,2022-01-11,2022-01-13,2.0,,Excellent!
+ORD629435,FKPROD4277,Lenovo IdeaPad,Electronics,80636.78,0,80636.78,1,80636.78,CUST29078,Rahul Nair,55.0,Kolkata,West Bengal,Credit Card,Shipped,2024-03-10,,,,Excellent!
+ORD484264,FKPROD2119,boAt Rockerz 450,Electronics,98440.59,0,98440.59,5,492202.95,CUST38442,Deepak Verma,36.0,Nagpur,Maharashtra,EMI,Delivered,2024-01-13,2024-01-15,2.0,,
+ORD619900,FKPROD4033,Cello Plastic Chair,Home,6158.67,5,5850.74,2,11701.48,CUST56507,Arjun Reddy,45.0,Jaipur,Rajasthan,Credit Card,Delivered,2024-02-19,2024-02-25,6.0,1.5,Average quality
+ORD680822,FKPROD6918,Himalaya Neem Toner,Beauty,826.44,0,826.44,1,826.44,CUST53006,,25.0,Chennai,Tamil Nadu,Net Banking,Delivered,2022-11-16,2022-11-27,11.0,,Excellent!
+ORD515623,FKPROD7672,Girls Frock,Clothing,3941.86,30,2759.3,2,5518.6,CUST19123,,61.0,Bengaluru,Karnataka,UPI,Processing,2023-05-19,,,,Value for money
+ORD481377,FKPROD8177,Royalford Frying Pan,Home,6028.37,5,5726.95,1,5726.95,CUST28791,Arjun Reddy,,Delhi,Delhi,Cash on Delivery,Shipped,2022-06-22,,,,Value for money
+ORD893041,FKPROD4261,Men Polo T-Shirt,Clothing,960.0,30,672.0,1,672.0,CUST40522,Meera Pillai,64.0,Chennai,Tamil Nadu,Flipkart Pay Later,Returned,2023-08-19,,,,Not as expected
+ORD204441,FKPROD7557,Women Saree,Clothing,2007.14,30,1405.0,4,5620.0,CUST77032,Rahul Nair,27.0,Delhi,Delhi,UPI,Delivered,2023-05-25,2023-05-29,4.0,3.5,Good product
+ORD311740,FKPROD1865,Realme 10 Pro,ELECTRONICS,60027.12,0,60027.12,2,120054.24,CUST60152,Sanjay Kulkarni,27.0,Lucknow,Uttar Pradesh,EMI,Delivered,2022-03-20,2022-03-31,11.0,,
+ORD564053,FKPROD5809,Nivea Body Lotion,Beauty,1319.06,50,659.53,3,1978.59,CUST81098,Sanjay Kulkarni,52.0,Mumbai,Maharashtra,Flipkart Pay Later,Delivered,2023-03-17,2023-03-19,2.0,2.5,Fast delivery
+ORD599028,FKPROD8531,OnePlus 11,Electronics,4426.75,50,2213.38,3,6640.14,CUST31514,,45.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,2024-02-22,2024-02-24,2.0,,
+ORD948878,FKPROD3560,Borosil Glass Set,Home,783.91,20,627.13,4,2508.52,CUST87469,Arjun Reddy,57.0,Nagpur,Maharashtra,Debit Card,Delivered,2022-01-29,2022-02-08,10.0,1.2,Highly recommended
+ORD821411,FKPROD1440,Yonex Badminton Racket,Sports,8945.03,25,6708.77,4,26835.08,CUST22759,Meera Pillai,40.0,Pune,Maharashtra,Debit Card,Delivered,2022-09-08,2022-09-12,4.0,1.9,Value for money
+ORD431889,FKPROD2073,Men Formal Shirt,Clothing,633.99,10,570.59,1,570.59,CUST80571,Sanjay Kulkarni,20.0,Surat,Gujarat,Flipkart Pay Later,Delivered,2023-06-12,2023-06-19,7.0,,Good product
+ORD744693,FKPROD7188,The Alchemist,Books,372.21,5,353.6,4,1414.4,CUST23114,Deepak Verma,39.0,Jaipur,Rajasthan,Flipkart Pay Later,Cancelled,2022-12-14,,,,Average quality
+ORD852570,FKPROD5907,Kids Hoodie,Clothing,3882.83,15,3300.41,4,13201.64,CUST93288,Amit Patel,52.0,Chennai,Tamil Nadu,Debit Card,Delivered,2023-08-11,2023-08-18,7.0,,Value for money
+ORD795684,FKPROD2552,Wings of Fire,Books,334.79,5,318.05,5,1590.25,CUST79607,,45.0,Kolkata,West Bengal,Flipkart Pay Later,Delivered,2024-04-23,2024-04-28,5.0,3.0,Fast delivery
+ORD380951,FKPROD9846,Women Leggings,Clothing,959.29,30,671.5,3,2014.5,CUST91915,Kiran Kumar,60.0,Bengaluru,Karnataka,UPI,Delivered,2023-06-13,2023-06-16,3.0,3.3,
+ORD530189,FKPROD9728,Nike Gym Gloves,Sports,6258.9,30,4381.23,5,21906.15,CUST92150,Priya Sharma,51.0,Kolkata,West Bengal,Net Banking,Delivered,2022-06-04,2022-06-16,12.0,3.7,Fast delivery
+ORD608960,FKPROD6220,Realme 10 Pro,Electronics,76254.33,30,53378.03,3,160134.09,CUST47623,Anjali Gupta,,Hyderabad,Telangana,Net Banking,Delivered,2022-06-03,2022-06-07,4.0,1.1,
+ORD775591,FKPROD8145,Milton Water Bottle,Home,5927.22,0,5927.22,2,11854.44,CUST30887,Rahul Nair,26.0,Chennai,Tamil Nadu,Flipkart Pay Later,Cancelled,2023-11-06,,,,Average quality
+ORD804299,FKPROD1691,WOW Vitamin C Serum,Beauty,1290.73,0,1290.73,1,1290.73,CUST21000,Sanjay Kulkarni,56.0,,,UPI,Shipped,2023-02-21,,,,Highly recommended
+ORD445281,FKPROD2479,Prestige Pressure Cooker,Home,8504.51,10,7654.06,2,15308.12,CUST24671,Sunita Rao,,Nagpur,Maharashtra,EMI,Delivered,2024-06-24,2024-06-26,2.0,2.0,Highly recommended
+ORD833602,FKPROD7388,Nike Gym Gloves,Sports,7558.23,15,6424.5,4,25698.0,CUST38574,Vikram Singh,24.0,Hyderabad,Telangana,Debit Card,Delivered,2022-09-18,2022-09-28,10.0,,Highly recommended
+ORD982348,FKPROD2850,Women Leggings,Clothing,2272.83,40,1363.7,2,2727.4,CUST46403,Vikram Singh,41.0,Indore,Madhya Pradesh,Debit Card,Cancelled,2022-01-22,,,,Good product
+ORD512064,FKPROD1895,Biotique Face Wash,Beauty,2305.02,15,1959.27,3,5877.81,CUST82447,Arjun Reddy,37.0,Nagpur,Maharashtra,Cash on Delivery,Delivered,2024-06-06,2024-06-10,4.0,4.4,Good product
+ORD593975,FKPROD5186,Men Formal Shirt,Clothing,541.95,15,460.66,3,1381.98,CUST37575,Anjali Gupta,46.0,Nagpur,Maharashtra,Flipkart Pay Later,Delivered,2024-03-19,2024-03-20,1.0,2.1,
+ORD575279,FKPROD7765,Men Polo T-Shirt,Clothing,2925.07,5,2778.82,2,5557.64,CUST44205,Amit Patel,40.0,Lucknow,Uttar Pradesh,Cash on Delivery,Cancelled,2024-01-26,,,,Highly recommended
+ORD988102,FKPROD1448,Yonex Badminton Racket,Sports,804.36,10,723.92,4,2895.68,CUST94030,Vikram Singh,18.0,Hyderabad,Telangana,Cash on Delivery,Delivered,2023-08-13,2023-08-15,2.0,1.4,Average quality
+ORD534631,FKPROD7722,Adidas Running Shoes,Sports,9411.36,40,5646.82,4,22587.28,CUST27499,Rahul Nair,,,,Debit Card,Cancelled,2022-07-23,,,,Value for money
+ORD520515,FKPROD7022,Lenovo IdeaPad,Electronics,47522.55,30,33265.79,5,166328.95,CUST39423,Rohan Mehta,19.0,Surat,Gujarat,EMI,Delivered,2022-04-02,2022-04-10,8.0,1.8,Good product
+ORD224269,FKPROD8027,Python Crash Course,Books,281.11,5,267.05,3,801.15,CUST32298,Sunita Rao,18.0,Pune,Maharashtra,Flipkart Pay Later,Shipped,2023-04-10,,,,
+ORD289131,FKPROD4677,Himalaya Neem Toner,Beauty,626.39,20,501.11,3,1503.33,CUST74771,Arjun Reddy,26.0,,,Credit Card,Delivered,2024-04-23,2024-04-28,5.0,3.9,Fast delivery
+ORD820216,FKPROD7693,Adidas Running Shoes,Sports,1714.65,20,1371.72,3,4115.16,CUST40865,Kiran Kumar,33.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,2022-03-29,2022-03-30,1.0,2.9,Fast delivery
+ORD105621,FKPROD4476,Himalaya Neem Toner,Beauty,1050.21,30,735.15,5,3675.75,CUST43584,Amit Patel,24.0,Mumbai,Maharashtra,UPI,Delivered,2022-08-29,2022-09-06,8.0,,Good product
+ORD238327,FKPROD5155,Borosil Glass Set,Home,5690.02,20,4552.02,4,18208.08,CUST97983,Neha Desai,26.0,Mumbai,Maharashtra,EMI,Delivered,2022-06-23,2022-07-02,9.0,3.0,
+ORD884149,FKPROD2468,Women Leggings,Clothing,2897.97,30,2028.58,2,4057.16,CUST44131,Sunita Rao,38.0,Bengaluru,Karnataka,Net Banking,Shipped,2024-05-04,,,,Not as expected
+ORD682667,FKPROD6907,Milton Water Bottle,Home,2760.45,20,2208.36,5,11041.8,CUST44571,Sanjay Kulkarni,45.0,Kolkata,West Bengal,Cash on Delivery,Processing,2024-02-22,,,,Average quality
+ORD579995,FKPROD8208,Redmi Note 12,Electronics,23075.93,0,23075.93,2,46151.86,CUST34004,Priya Sharma,48.0,Bengaluru,Karnataka,Cash on Delivery,Delivered,2022-04-29,2022-05-07,8.0,1.2,
+ORD711893,FKPROD9077,JBL Flip 6,Electronics,101577.68,10,91419.91,1,91419.91,CUST55823,Amit Patel,31.0,Bengaluru,Karnataka,Flipkart Pay Later,Delivered,2023-06-05,2023-06-10,5.0,,Excellent!
+ORD531228,FKPROD9582,Bose QuietComfort 45,Electronics,51892.68,10,46703.41,5,233517.05,CUST30715,Sanjay Kulkarni,22.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2022-11-22,2022-11-25,3.0,3.9,Fast delivery
+ORD780776,FKPROD7242,Boldfit Resistance Bands,Sports,6492.93,25,4869.7,1,4869.7,CUST98452,Kavita Joshi,48.0,Lucknow,Uttar Pradesh,EMI,Delivered,2023-09-17,2023-09-21,4.0,,Not as expected
+ORD652654,FKPROD5903,Women Leggings,Clothing,1599.56,30,1119.69,1,1119.69,CUST66010,Amit Patel,36.0,Bengaluru,Karnataka,UPI,Returned,2022-10-09,,,,Highly recommended
+ORD659572,FKPROD1251,Mi Smart TV 43,Electronics,112490.59,5,106866.06,4,427464.24,CUST41797,Deepak Verma,43.0,Jaipur,Rajasthan,Debit Card,Cancelled,2023-01-25,,,,
+ORD895702,FKPROD7326,Sony WH-1000XM5,Electronics,45302.06,0,45302.06,3,135906.18,CUST22987,Sanjay Kulkarni,27.0,Mumbai,Maharashtra,Debit Card,Shipped,2023-04-29,,,,Average quality
+ORD193624,FKPROD3403,Nivea Body Lotion,Beauty,499.66,50,249.83,3,749.49,CUST61115,Kiran Kumar,30.0,Surat,Gujarat,Debit Card,Delivered,2024-03-24,2024-04-04,11.0,2.2,Highly recommended
+ORD366776,FKPROD1392,Solimo Bedsheet,Home,5740.51,5,5453.48,2,10906.96,CUST90649,Meera Pillai,44.0,Kolkata,West Bengal,Debit Card,Delivered,2023-10-15,2023-10-19,4.0,1.0,Not as expected
+ORD153063,FKPROD6231,WOW Vitamin C Serum,Beauty,2470.85,25,1853.14,4,7412.56,CUST27139,Neha Desai,50.0,Delhi,Delhi,Debit Card,Delivered,2022-05-06,2022-05-11,5.0,2.8,Value for money
+ORD702733,FKPROD9955,HP Pavilion x360,Electronics,9326.5,25,6994.88,5,34974.4,CUST49210,Meera Pillai,62.0,Ahmedabad,Gujarat,Flipkart Pay Later,Delivered,2023-01-29,2023-02-06,8.0,1.4,Highly recommended
+ORD962767,FKPROD7156,Sony WH-1000XM5,Electronics,1290.95,20,1032.76,4,4131.04,CUST32923,Kiran Kumar,,Nagpur,Maharashtra,Credit Card,Delivered,2024-05-02,2024-05-09,7.0,,Good product
+ORD728038,FKPROD8123,HP Pavilion x360,Electronics,54719.98,20,43775.98,5,218879.9,CUST33416,Sunita Rao,58.0,,,Cash on Delivery,Delivered,2022-07-23,2022-07-26,3.0,2.5,Good product
+ORD827744,FKPROD2494,Himalaya Neem Toner,BEAUTY,372.68,15,316.78,4,1267.12,CUST20215,Vikram Singh,55.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,2022-01-09,2022-01-21,12.0,2.4,Fast delivery
+ORD498249,FKPROD5331,Yonex Badminton Racket,SPORTS,8248.45,0,8248.45,2,16496.9,CUST70819,Arjun Reddy,48.0,Ahmedabad,Gujarat,Cash on Delivery,Processing,2023-06-30,,,,Excellent!
+ORD220465,FKPROD7929,WOW Vitamin C Serum,Beauty,269.9,20,215.92,5,1079.6,CUST50953,Neha Desai,,Jaipur,Rajasthan,Credit Card,Delivered,2023-05-09,2023-05-13,4.0,4.4,Highly recommended
+ORD673929,FKPROD9153,Pigeon Gas Stove,Home,5027.46,0,5027.46,5,25137.3,CUST74679,Kavita Joshi,,Surat,Gujarat,Net Banking,Delivered,2023-03-29,2023-03-31,2.0,3.4,Excellent!
