@@ -68,7 +68,7 @@ print("y_test is :\n",y_test)
 
 # ex : 2 using customer.csv
 
-df = pd.read_csv("customer_data (1).csv")
+df = pd.read_csv("supervised machine learning'/customer_data (1).csv")
 
 # print(df)
 
@@ -96,13 +96,19 @@ label_encoder = LabelEncoder()
 df['Gender'] =label_encoder.fit_transform(df['Gender'])
 df['Purchased'] =label_encoder.fit_transform(df['Purchased'])
 
-
 # oridinal encoding :
 
 education_type ={"Graduate":1,"Post Graduate":2 ,"PhD":3}
 df['Education'] =df['Education'].map(education_type)
 print(df)
 
+# one hot encoding :
+
+city_encode =pd.get_dummies(df['City'],dtype=int)
+# print(city_encode)
+df=pd.concat([df,city_encode],axis=1)
+df.drop('City',axis=1,inplace=True)
+print(df)
 #  hw :one  hot encoding : pd.get_dummies()
 
 """
@@ -136,3 +142,6 @@ Dataset
                         ↓
                     Accuracy
 """
+# pd.dummies() :
+
+
