@@ -100,7 +100,7 @@ df['Purchased'] =label_encoder.fit_transform(df['Purchased'])
 
 education_type ={"Graduate":1,"Post Graduate":2 ,"PhD":3}
 df['Education'] =df['Education'].map(education_type)
-print(df)
+# print(df)
 
 # one hot encoding :
 
