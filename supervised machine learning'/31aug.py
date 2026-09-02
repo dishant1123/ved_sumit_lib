@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler,StandardScaler
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder,MinMaxScaler
 from sklearn.linear_model import LinearRegression
 
 df=pd.DataFrame({
@@ -52,11 +52,22 @@ y=df['salary']
 
 X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3, random_state=42)
 
-scaler  = StandardScaler()
+"""scaler  = StandardScaler()
+x_train_scaled = scaler.fit_transform(X_train)
+x_test_scaled = scaler.transform(X_test)
+"""
+# diff : fit_transform() and transform()
+# maxmin scaler :  x -min / max-min  
+scaler = MinMaxScaler()
 x_train_scaled = scaler.fit_transform(X_train)
 x_test_scaled = scaler.transform(X_test)
 
-# diff : fit_transform() and transform()
+print("x_train_scaled :\n",x_train_scaled)
+print("x_test_scaled :\n",x_test_scaled)
+
+
+
+
 """
 areasq    age    bedrooms    price 
 1000       10     2            600000
@@ -67,5 +78,7 @@ areasq    age    bedrooms    price
 
 """
 
+"""
 model = LinearRegression()
 model.fit(x_train_scaled,y_train)
+"""

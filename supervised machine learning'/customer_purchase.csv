@@ -1,0 +1,11 @@
+CustomerID,Age,Salary,Experience,City,Purchased
+1,22,25000,1,Ahmedabad,0
+2,25,30000,2,Surat,0
+3,30,45000,5,Rajkot,1
+4,35,50000,8,Ahmedabad,1
+5,40,70000,12,Surat,1
+6,28,35000,4,Vadodara,0
+7,50,90000,20,Ahmedabad,1
+8,29,38000,5,Rajkot,0
+9,45,85000,18,Surat,1
+10,60,250000,35,Ahmedabad,1
