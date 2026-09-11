@@ -37,7 +37,7 @@ result  =pd.DataFrame({
     "Actual":y_test,
     "Predicted":y_predict
 })
-print(result.head())
+print(result.head(10))
 
 intercept = model.intercept_
 print("intercept :",intercept)
