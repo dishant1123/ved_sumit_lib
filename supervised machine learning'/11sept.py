@@ -73,8 +73,6 @@ print(
 """
 conclusion : 
 
-
-
 """
 
 
