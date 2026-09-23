@@ -58,16 +58,22 @@ print("R2 score :",R2_score)
 
 # polynomial features  :
 ploy = PolynomialFeatures(degree=2)
-X_ploy = ploy.fit_transform(X_train)
+X_ploy = ploy.fit_transform(X)
 
 # model : 
 poly_model = LinearRegression()
-poly_model.fit(X_ploy,y_train)
+poly_model.fit(X_ploy,y)
 
 # predict :
 y_predict_poly = poly_model.predict(X_ploy)
 print("predicted sales :",y_predict_poly)
 
+# r2 score  : 
+R2_score_poly = r2_score(y,y_predict_poly)
+print("R2 score :",R2_score_poly)
+
+
+"""
 # comparsion actual vs predicted :
 result1 = pd.DataFrame({
     'Actual':y_test.values,
@@ -75,10 +81,12 @@ result1 = pd.DataFrame({
 })
 
 print("polynomial features :",result1.head())
+"""
+if R2_score < R2_score_poly:
+    print("\nPolynomial Regression performs better because the relationship between Temp and sales  is nonlinear.")
+else:
+    print("\nLinear Regression performs better.")
 
-# r2 score :
-R2_score_poly = r2_score(y_test,y_predict_poly)
-print("R2 score :",R2_score_poly) 
 
 """
 task :1 regression  vs  poly curve 
