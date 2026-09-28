@@ -70,3 +70,8 @@ print("predicted salary :",y_predict)
 # r2 score : 
 R2_score = r2_score(y_test,y_predict)
 print("R2 score :",R2_score)
+
+
+
+
+
