@@ -41,3 +41,12 @@ Accuracy_score = accuracy_score(y_test,y_predict)
 print("accuracy :",f"{Accuracy_score*100:.2f}%")
 
 # overfitting : 
+train_predict = model.predict(X_train)
+test_predict = model.predict(X_test)
+
+# train score :
+train_score = accuracy_score(y_train,train_predict)
+test_score = accuracy_score(y_test,test_predict)
+
+diff = test_score - train_score
+print("overfitting :",f"{diff*100:.2f}%")
