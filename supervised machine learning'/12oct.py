@@ -53,7 +53,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score,confusion_matrix,classification_report
-
+import matplotlib.pyplot as plt
 df =pd.read_csv("supervised machine learning'/Titanic-Dataset_2.csv")
 
 # age -----> fillna ----> mean , mapping -----> df[sex]
@@ -77,7 +77,7 @@ X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
 # model : 
-model = KNeighborsClassifier(n_neighbors=5,
+"""model = KNeighborsClassifier(n_neighbors=5,
                              metric='euclidean')
 
 # model fit :
@@ -90,9 +90,9 @@ print("predicted survived :",y_predict)
 # accuracy :
 Accuracy_score = accuracy_score(y_test,y_predict)
 print("accuracy :",f"{Accuracy_score*100:.2f}%")
-
+"""
 # new  data  predict :
-new_data = pd.DataFrame({
+"""new_data = pd.DataFrame({
    "Age" : [34],
     "Sex" :[1],
     "Fare" :[10.25],
@@ -105,3 +105,21 @@ new_data_predict = model.predict(new_data)
 
 print("new data predicted survived :",new_data_predict)
 
+"""
+# elbow method  : 
+
+k_value = range(1,11)  # 1,10 
+accuracy_scores = []
+
+for  i in k_value:
+    model = KNeighborsClassifier(n_neighbors=i,metric='euclidean')
+    model.fit(X_train,y_train)
+    y_predict = model.predict(X_test)
+    accuracy_scores.append(accuracy_score(y_test,y_predict)) 
+    
+plt.plot(k_value,accuracy_scores)
+plt.xlabel('k value')
+plt.ylabel('accuracy')
+plt.title('Accuracy Scores')
+plt.show()
+    
