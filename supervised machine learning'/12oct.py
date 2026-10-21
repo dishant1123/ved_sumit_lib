@@ -54,6 +54,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score,confusion_matrix,classification_report
 import matplotlib.pyplot as plt
+from sklearn.datasets import load_iris
 df =pd.read_csv("supervised machine learning'/Titanic-Dataset_2.csv")
 
 # age -----> fillna ----> mean , mapping -----> df[sex]
@@ -122,4 +123,4 @@ plt.xlabel('k value')
 plt.ylabel('accuracy')
 plt.title('Accuracy Scores')
 plt.show()
-    
+
