@@ -1,7 +1,0 @@
-"""
-decision tree : classification 
-
-
-
-
-"""
