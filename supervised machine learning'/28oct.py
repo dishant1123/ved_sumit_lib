@@ -5,6 +5,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from xgboost import XGBClassifier
+from sklearn.ensemble import AdaBoostClassifier,GradientBoostingClassifier
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("supervised machine learning'/Churn_Modelling (1).csv")
@@ -32,14 +33,21 @@ X_train, X_test, y_train, y_test = train_test_split(X,
                                                     random_state=42)
 
 # model  
-model = XGBClassifier(
+"""model = XGBClassifier(
     n_estimators=500,
     learning_rate=0.01,
     max_depth=5,
     criterion='logloss'
     
-)
+)"""
 
+model = GradientBoostingClassifier(
+    n_estimators=500,
+    learning_rate=0.01,
+    max_depth=5,
+    loss='log_loss',
+    random_state=42
+)
 # fit  :
 model.fit(X_train,y_train)
 
