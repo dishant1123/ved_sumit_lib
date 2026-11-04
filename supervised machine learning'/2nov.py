@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np 
 from sklearn.preprocessing import StandardScaler 
 from sklearn.model_selection import train_test_split 
-from sklearn.metrics import accuracy_score,classification_report 
+from sklearn.metrics import accuracy_score,classification_report,roc_curve,roc_auc_score
 from sklearn.svm import SVC 
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -68,6 +68,37 @@ confusion_matrix_plot = sns.heatmap(confusion_matrix,
                                     fmt='d',
                                     cmap='Blues')
 plt.show()
+
+# apply below  code  when  you use the logistic regression  : 
+"""
+# roc curve :
+curve =roc_curve(y_predict,y_test) 
+print(curve)
+
+plt.plot()
+
+# Probability of positive class
+y_prob = model.predict_proba(X_test)[:, 1]
+
+# ROC values
+fpr, tpr, thresholds = roc_curve(y_test, y_prob)
+
+# AUC Score
+auc_score = roc_auc_score(y_test, y_prob)
+
+# Plot ROC Curve
+plt.figure(figsize=(6,4)) 
+plt.plot(fpr,tpr,label =f"AUC = {auc_score:.3f}",
+         color='blue')
+
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('ROC Curve')
+plt.legend()
+plt.grid(True)
+
+plt.show()"""
+
 
 """
 confusion  matrix :
