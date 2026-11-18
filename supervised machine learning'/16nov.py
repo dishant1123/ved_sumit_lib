@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split,GridSearchCV
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score,classification_report
 from xgboost import XGBClassifier
 from sklearn.ensemble import AdaBoostClassifier,GradientBoostingClassifier
 import matplotlib.pyplot as plt
@@ -164,3 +164,4 @@ print("accuracy score : ", accuracy_score(y_test, y_pred))
 
 best_model =grid.best_estimator_ 
 print("best model is  : ",best_model.score(X_test,y_test))
+
